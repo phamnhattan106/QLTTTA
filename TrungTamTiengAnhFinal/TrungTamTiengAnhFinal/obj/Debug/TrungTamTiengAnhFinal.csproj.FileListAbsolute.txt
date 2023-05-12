@@ -1,0 +1,427 @@
+C:\Users\ADMIN\Desktop\Đồ án\TTTAFinal\TrungTamTiengAnhFinal\TrungTamTiengAnhFinal\bin\Debug\TrungTamTiengAnhFinal.exe.config
+C:\Users\ADMIN\Desktop\Đồ án\TTTAFinal\TrungTamTiengAnhFinal\TrungTamTiengAnhFinal\bin\Debug\TrungTamTiengAnhFinal.exe
+C:\Users\ADMIN\Desktop\Đồ án\TTTAFinal\TrungTamTiengAnhFinal\TrungTamTiengAnhFinal\bin\Debug\TrungTamTiengAnhFinal.pdb
+C:\Users\ADMIN\Desktop\Đồ án\TTTAFinal\TrungTamTiengAnhFinal\TrungTamTiengAnhFinal\obj\Debug\TrungTamTiengAnhFinal.csproj.AssemblyReference.cache
+C:\Users\ADMIN\Desktop\Đồ án\TTTAFinal\TrungTamTiengAnhFinal\TrungTamTiengAnhFinal\obj\Debug\TrungTamTiengAnhFinal.Properties.Resources.resources
+C:\Users\ADMIN\Desktop\Đồ án\TTTAFinal\TrungTamTiengAnhFinal\TrungTamTiengAnhFinal\obj\Debug\TrungTamTiengAnhFinal.csproj.GenerateResource.cache
+C:\Users\ADMIN\Desktop\Đồ án\TTTAFinal\TrungTamTiengAnhFinal\TrungTamTiengAnhFinal\obj\Debug\TrungTamTiengAnhFinal.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\Desktop\Đồ án\TTTAFinal\TrungTamTiengAnhFinal\TrungTamTiengAnhFinal\obj\Debug\TrungTamTiengAnhFinal.exe
+C:\Users\ADMIN\Desktop\Đồ án\TTTAFinal\TrungTamTiengAnhFinal\TrungTamTiengAnhFinal\obj\Debug\TrungTamTiengAnhFinal.pdb
+C:\Users\ADMIN\Desktop\TTTAFinal\TrungTamTiengAnhFinal\TrungTamTiengAnhFinal\bin\Debug\TrungTamTiengAnhFinal.exe.config
+C:\Users\ADMIN\Desktop\TTTAFinal\TrungTamTiengAnhFinal\TrungTamTiengAnhFinal\bin\Debug\TrungTamTiengAnhFinal.exe
+C:\Users\ADMIN\Desktop\TTTAFinal\TrungTamTiengAnhFinal\TrungTamTiengAnhFinal\bin\Debug\TrungTamTiengAnhFinal.pdb
+C:\Users\ADMIN\Desktop\TTTAFinal\TrungTamTiengAnhFinal\TrungTamTiengAnhFinal\obj\Debug\TrungTamTiengAnhFinal.csproj.AssemblyReference.cache
+C:\Users\ADMIN\Desktop\TTTAFinal\TrungTamTiengAnhFinal\TrungTamTiengAnhFinal\obj\Debug\TrungTamTiengAnhFinal.formLogin.resources
+C:\Users\ADMIN\Desktop\TTTAFinal\TrungTamTiengAnhFinal\TrungTamTiengAnhFinal\obj\Debug\TrungTamTiengAnhFinal.Properties.Resources.resources
+C:\Users\ADMIN\Desktop\TTTAFinal\TrungTamTiengAnhFinal\TrungTamTiengAnhFinal\obj\Debug\TrungTamTiengAnhFinal.csproj.GenerateResource.cache
+C:\Users\ADMIN\Desktop\TTTAFinal\TrungTamTiengAnhFinal\TrungTamTiengAnhFinal\obj\Debug\TrungTamTiengAnhFinal.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\Desktop\TTTAFinal\TrungTamTiengAnhFinal\TrungTamTiengAnhFinal\obj\Debug\TrungTamTiengAnhFinal.exe
+C:\Users\ADMIN\Desktop\TTTAFinal\TrungTamTiengAnhFinal\TrungTamTiengAnhFinal\obj\Debug\TrungTamTiengAnhFinal.pdb
+C:\Users\ADMIN\Desktop\TTTAFinal\TrungTamTiengAnhFinal\TrungTamTiengAnhFinal\obj\Debug\TrungTamTiengAnhFinal.formMain.resources
+C:\Users\ADMIN\Desktop\TTTAFinal\TrungTamTiengAnhFinal\TrungTamTiengAnhFinal\obj\Debug\TrungTamTiengAnhFinal.Học_Viên.formTiepNhanHocVien.resources
+C:\Users\ADMIN\Desktop\TTTAFinal\TrungTamTiengAnhFinal\TrungTamTiengAnhFinal\obj\Debug\TrungTamTiengAnhFinal.Học_Viên.LuuPhieuGhiDanh.resources
+C:\Users\ADMIN\Desktop\TTTAFinal\TrungTamTiengAnhFinal\TrungTamTiengAnhFinal\obj\Debug\TrungTamTiengAnhFinal.Học_Viên.QuanLyDiemHV.resources
+C:\Users\ADMIN\Desktop\TTTAFinal\TrungTamTiengAnhFinal\TrungTamTiengAnhFinal\obj\Debug\TrungTamTiengAnhFinal.Học_Viên.formThayDoiThongTinHV.resources
+C:\Users\ADMIN\Desktop\TTTAFinal\TrungTamTiengAnhFinal\TrungTamTiengAnhFinal\obj\Debug\TrungTamTiengAnhFinal.Học_Viên.formBangDiemHV.resources
+C:\Users\ADMIN\Desktop\TTTAFinal\TrungTamTiengAnhFinal\TrungTamTiengAnhFinal\obj\Debug\TrungTamTiengAnhFinal.Học_Viên.formHocPhiHV.resources
+C:\Users\ADMIN\Desktop\TTTAFinal\TrungTamTiengAnhFinal\TrungTamTiengAnhFinal\obj\Debug\TrungTamTiengAnhFinal.Học_Viên.formXepLopHV.resources
+C:\Users\ADMIN\Desktop\TTTAFinal\TrungTamTiengAnhFinal\TrungTamTiengAnhFinal\obj\Debug\TrungTamTiengAnhFinal.formThongKeDiemTheoLopNV.resources
+C:\Users\ADMIN\Desktop\TTTAFinal\TrungTamTiengAnhFinal\TrungTamTiengAnhFinal\obj\Debug\TrungTamTiengAnhFinal.Giảng_Viên.formCacLopDaDayGV.resources
+C:\Users\ADMIN\Desktop\TTTAFinal\TrungTamTiengAnhFinal\TrungTamTiengAnhFinal\obj\Debug\TrungTamTiengAnhFinal.Giảng_Viên.formThayDoiThongTinGV.resources
+C:\Users\ADMIN\Desktop\TTTAFinal\TrungTamTiengAnhFinal\TrungTamTiengAnhFinal\obj\Debug\TrungTamTiengAnhFinal.Nhân_Viên.formThayDoiThongTinNV.resources
+C:\Users\ADMIN\Desktop\TTTAFinal\TrungTamTiengAnhFinal\TrungTamTiengAnhFinal\obj\Debug\TrungTamTiengAnhFinal.Quản_trị.formQuanLyGV.resources
+C:\Users\ADMIN\Desktop\TTTAFinal\TrungTamTiengAnhFinal\TrungTamTiengAnhFinal\obj\Debug\TrungTamTiengAnhFinal.Quản_trị.formQuanLyHocPhi.resources
+C:\Users\ADMIN\Desktop\TTTAFinal\TrungTamTiengAnhFinal\TrungTamTiengAnhFinal\obj\Debug\TrungTamTiengAnhFinal.Quản_trị.formQuanLyHV.resources
+C:\Users\ADMIN\Desktop\TTTAFinal\TrungTamTiengAnhFinal\TrungTamTiengAnhFinal\obj\Debug\TrungTamTiengAnhFinal.Quản_trị.formQuanLyKhoaHoc.resources
+C:\Users\ADMIN\Desktop\TTTAFinal\TrungTamTiengAnhFinal\TrungTamTiengAnhFinal\obj\Debug\TrungTamTiengAnhFinal.Quản_trị.formQuanLyLopHoc.resources
+C:\Users\ADMIN\Desktop\TTTAFinal\TrungTamTiengAnhFinal\TrungTamTiengAnhFinal\obj\Debug\TrungTamTiengAnhFinal.Quản_trị.formThemGV.resources
+C:\Users\ADMIN\Desktop\TTTAFinal\TrungTamTiengAnhFinal\TrungTamTiengAnhFinal\obj\Debug\TrungTamTiengAnhFinal.Quản_trị.formThemLopHoc.resources
+C:\Users\ADMIN\Desktop\TTTAFinal\TrungTamTiengAnhFinal\TrungTamTiengAnhFinal\obj\Debug\TrungTamTiengAnhFinal.Quản_trị.formThemNV.resources
+C:\Users\ADMIN\Desktop\TTTAFinal\TrungTamTiengAnhFinal\TrungTamTiengAnhFinal\obj\Debug\TrungTamTiengAnhFinal.Quản_trị.QuanLyNV.resources
+C:\Users\ADMIN\Desktop\TTTAFinal\TrungTamTiengAnhFinal\TrungTamTiengAnhFinal\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\ADMIN\Desktop\TTTAFinal1\TrungTamTiengAnhFinal\TrungTamTiengAnhFinal\bin\Debug\TrungTamTiengAnhFinal.exe.config
+C:\Users\ADMIN\Desktop\TTTAFinal1\TrungTamTiengAnhFinal\TrungTamTiengAnhFinal\bin\Debug\TrungTamTiengAnhFinal.exe
+C:\Users\ADMIN\Desktop\TTTAFinal1\TrungTamTiengAnhFinal\TrungTamTiengAnhFinal\bin\Debug\TrungTamTiengAnhFinal.pdb
+C:\Users\ADMIN\Desktop\TTTAFinal1\TrungTamTiengAnhFinal\TrungTamTiengAnhFinal\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\ADMIN\Desktop\TTTAFinal1\TrungTamTiengAnhFinal\TrungTamTiengAnhFinal\obj\Debug\TrungTamTiengAnhFinal.csproj.AssemblyReference.cache
+C:\Users\ADMIN\Desktop\TTTAFinal1\TrungTamTiengAnhFinal\TrungTamTiengAnhFinal\obj\Debug\TrungTamTiengAnhFinal.formLogin.resources
+C:\Users\ADMIN\Desktop\TTTAFinal1\TrungTamTiengAnhFinal\TrungTamTiengAnhFinal\obj\Debug\TrungTamTiengAnhFinal.formMain.resources
+C:\Users\ADMIN\Desktop\TTTAFinal1\TrungTamTiengAnhFinal\TrungTamTiengAnhFinal\obj\Debug\TrungTamTiengAnhFinal.Quản_trị.Quản_lý_lớp_học.formThayDoiThongTinLopHoc.resources
+C:\Users\ADMIN\Desktop\TTTAFinal1\TrungTamTiengAnhFinal\TrungTamTiengAnhFinal\obj\Debug\TrungTamTiengAnhFinal.Nhân_Viên.formThayDoiThongTinNV.resources
+C:\Users\ADMIN\Desktop\TTTAFinal1\TrungTamTiengAnhFinal\TrungTamTiengAnhFinal\obj\Debug\TrungTamTiengAnhFinal.formThongKeDiemTheoLopNV.resources
+C:\Users\ADMIN\Desktop\TTTAFinal1\TrungTamTiengAnhFinal\TrungTamTiengAnhFinal\obj\Debug\TrungTamTiengAnhFinal.Giảng_Viên.formCacLopDaDayGV.resources
+C:\Users\ADMIN\Desktop\TTTAFinal1\TrungTamTiengAnhFinal\TrungTamTiengAnhFinal\obj\Debug\TrungTamTiengAnhFinal.Giảng_Viên.formThayDoiThongTinGV.resources
+C:\Users\ADMIN\Desktop\TTTAFinal1\TrungTamTiengAnhFinal\TrungTamTiengAnhFinal\obj\Debug\TrungTamTiengAnhFinal.Học_Viên.formBangDiemHV.resources
+C:\Users\ADMIN\Desktop\TTTAFinal1\TrungTamTiengAnhFinal\TrungTamTiengAnhFinal\obj\Debug\TrungTamTiengAnhFinal.Học_Viên.formHocPhiHV.resources
+C:\Users\ADMIN\Desktop\TTTAFinal1\TrungTamTiengAnhFinal\TrungTamTiengAnhFinal\obj\Debug\TrungTamTiengAnhFinal.Học_Viên.formThayDoiThongTinHV.resources
+C:\Users\ADMIN\Desktop\TTTAFinal1\TrungTamTiengAnhFinal\TrungTamTiengAnhFinal\obj\Debug\TrungTamTiengAnhFinal.Học_Viên.formTiepNhanHocVien.resources
+C:\Users\ADMIN\Desktop\TTTAFinal1\TrungTamTiengAnhFinal\TrungTamTiengAnhFinal\obj\Debug\TrungTamTiengAnhFinal.Học_Viên.LuuPhieuGhiDanh.resources
+C:\Users\ADMIN\Desktop\TTTAFinal1\TrungTamTiengAnhFinal\TrungTamTiengAnhFinal\obj\Debug\TrungTamTiengAnhFinal.Học_Viên.QuanLyDiemHV.resources
+C:\Users\ADMIN\Desktop\TTTAFinal1\TrungTamTiengAnhFinal\TrungTamTiengAnhFinal\obj\Debug\TrungTamTiengAnhFinal.Học_Viên.formXepLopHV.resources
+C:\Users\ADMIN\Desktop\TTTAFinal1\TrungTamTiengAnhFinal\TrungTamTiengAnhFinal\obj\Debug\TrungTamTiengAnhFinal.Properties.Resources.resources
+C:\Users\ADMIN\Desktop\TTTAFinal1\TrungTamTiengAnhFinal\TrungTamTiengAnhFinal\obj\Debug\TrungTamTiengAnhFinal.Quản_trị.formQuanLyGV.resources
+C:\Users\ADMIN\Desktop\TTTAFinal1\TrungTamTiengAnhFinal\TrungTamTiengAnhFinal\obj\Debug\TrungTamTiengAnhFinal.Quản_trị.formQuanLyHocPhi.resources
+C:\Users\ADMIN\Desktop\TTTAFinal1\TrungTamTiengAnhFinal\TrungTamTiengAnhFinal\obj\Debug\TrungTamTiengAnhFinal.Quản_trị.formQuanLyKhoaHoc.resources
+C:\Users\ADMIN\Desktop\TTTAFinal1\TrungTamTiengAnhFinal\TrungTamTiengAnhFinal\obj\Debug\TrungTamTiengAnhFinal.Quản_trị.formQuanLyLopHoc.resources
+C:\Users\ADMIN\Desktop\TTTAFinal1\TrungTamTiengAnhFinal\TrungTamTiengAnhFinal\obj\Debug\TrungTamTiengAnhFinal.Quản_trị.formThemGV.resources
+C:\Users\ADMIN\Desktop\TTTAFinal1\TrungTamTiengAnhFinal\TrungTamTiengAnhFinal\obj\Debug\TrungTamTiengAnhFinal.Quản_trị.formThemLopHoc.resources
+C:\Users\ADMIN\Desktop\TTTAFinal1\TrungTamTiengAnhFinal\TrungTamTiengAnhFinal\obj\Debug\TrungTamTiengAnhFinal.Quản_trị.formThemNV.resources
+C:\Users\ADMIN\Desktop\TTTAFinal1\TrungTamTiengAnhFinal\TrungTamTiengAnhFinal\obj\Debug\TrungTamTiengAnhFinal.Quản_trị.QuanLyNV.resources
+C:\Users\ADMIN\Desktop\TTTAFinal1\TrungTamTiengAnhFinal\TrungTamTiengAnhFinal\obj\Debug\TrungTamTiengAnhFinal.csproj.GenerateResource.cache
+C:\Users\ADMIN\Desktop\TTTAFinal1\TrungTamTiengAnhFinal\TrungTamTiengAnhFinal\obj\Debug\TrungTamTiengAnhFinal.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\Desktop\TTTAFinal1\TrungTamTiengAnhFinal\TrungTamTiengAnhFinal\obj\Debug\TrungTamTiengAnhFinal.exe
+C:\Users\ADMIN\Desktop\TTTAFinal1\TrungTamTiengAnhFinal\TrungTamTiengAnhFinal\obj\Debug\TrungTamTiengAnhFinal.pdb
+C:\Users\ADMIN\Desktop\TTTAFinal1\TrungTamTiengAnhFinal\TrungTamTiengAnhFinal\obj\Debug\TrungTamTiengAnhFinal.Quản_trị.Quản_lý_học_phí.formHoaDonHocPhi.resources
+C:\Users\ADMIN\Desktop\TTTAFinal1\TrungTamTiengAnhFinal\TrungTamTiengAnhFinal\obj\Debug\TrungTamTiengAnhFinal.Quản_trị.formQuanLyNV.resources
+C:\Users\ADMIN\Desktop\TTTAFinal1\TrungTamTiengAnhFinal\TrungTamTiengAnhFinal\obj\Debug\TrungTamTiengAnhFinal.formThongTin.resources
+C:\Users\ADMIN\Desktop\TTTAFinal1\TrungTamTiengAnhFinal\TrungTamTiengAnhFinal\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\ADMIN\Desktop\TTTAFinal1\TrungTamTiengAnhFinal\TrungTamTiengAnhFinal\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\ADMIN\Desktop\TTTAFinal1\TrungTamTiengAnhFinal\TrungTamTiengAnhFinal\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\ADMIN\Desktop\TTTAFinal1\TrungTamTiengAnhFinal\TrungTamTiengAnhFinal\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\ADMIN\Desktop\TTTAFinal1\TrungTamTiengAnhFinal\TrungTamTiengAnhFinal\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\ADMIN\Desktop\TTTAFinal1\TrungTamTiengAnhFinal\TrungTamTiengAnhFinal\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\ADMIN\Desktop\TTTAFinal1\TrungTamTiengAnhFinal\TrungTamTiengAnhFinal\bin\Debug\EnvDTE.dll
+C:\Users\ADMIN\Desktop\TTTAFinal1\TrungTamTiengAnhFinal\TrungTamTiengAnhFinal\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+C:\Users\ADMIN\Desktop\TTTAFinal1\TrungTamTiengAnhFinal\TrungTamTiengAnhFinal\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+C:\Users\ADMIN\Desktop\TTTAFinal1\TrungTamTiengAnhFinal\TrungTamTiengAnhFinal\bin\Debug\stdole.dll
+C:\Users\ADMIN\Desktop\TTTAFinal1\TrungTamTiengAnhFinal\TrungTamTiengAnhFinal\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+C:\Users\ADMIN\Desktop\TTTAFinal1\TrungTamTiengAnhFinal\TrungTamTiengAnhFinal\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+C:\Users\ADMIN\Desktop\TTTAFinal1\TrungTamTiengAnhFinal\TrungTamTiengAnhFinal\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+C:\Users\ADMIN\Desktop\TTTAFinal1\TrungTamTiengAnhFinal\TrungTamTiengAnhFinal\bin\Debug\Microsoft.MSXML.dll
+C:\Users\ADMIN\Desktop\TTTAFinal1\TrungTamTiengAnhFinal\TrungTamTiengAnhFinal\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\ADMIN\Desktop\TTTAFinal1\TrungTamTiengAnhFinal\TrungTamTiengAnhFinal\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\ADMIN\Desktop\TTTAFinal1\TrungTamTiengAnhFinal\TrungTamTiengAnhFinal\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\ADMIN\Desktop\TTTAFinal1\TrungTamTiengAnhFinal\TrungTamTiengAnhFinal\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\ADMIN\Desktop\TTTAFinal1\TrungTamTiengAnhFinal\TrungTamTiengAnhFinal\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\ADMIN\Desktop\TTTAFinal1\TrungTamTiengAnhFinal\TrungTamTiengAnhFinal\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\ADMIN\Desktop\TTTAFinal1\TrungTamTiengAnhFinal\TrungTamTiengAnhFinal\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\ADMIN\Desktop\TTTAFinal1\TrungTamTiengAnhFinal\TrungTamTiengAnhFinal\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\ADMIN\Desktop\TTTAFinal1\TrungTamTiengAnhFinal\TrungTamTiengAnhFinal\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\ADMIN\Desktop\TTTAFinal1\TrungTamTiengAnhFinal\TrungTamTiengAnhFinal\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\ADMIN\Desktop\TTTAFinal1\TrungTamTiengAnhFinal\TrungTamTiengAnhFinal\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\ADMIN\Desktop\TTTAFinal1\TrungTamTiengAnhFinal\TrungTamTiengAnhFinal\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\ADMIN\Desktop\TTTAFinal1\TrungTamTiengAnhFinal\TrungTamTiengAnhFinal\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\ADMIN\Desktop\TTTAFinal1\TrungTamTiengAnhFinal\TrungTamTiengAnhFinal\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\ADMIN\Desktop\TTTAFinal1\TrungTamTiengAnhFinal\TrungTamTiengAnhFinal\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\ADMIN\Desktop\TTTAFinal1\TrungTamTiengAnhFinal\TrungTamTiengAnhFinal\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\ADMIN\Desktop\TTTAFinal1\TrungTamTiengAnhFinal\TrungTamTiengAnhFinal\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\ADMIN\Desktop\TTTAFinal1\TrungTamTiengAnhFinal\TrungTamTiengAnhFinal\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\ADMIN\Desktop\TTTAFinal1\TrungTamTiengAnhFinal\TrungTamTiengAnhFinal\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\ADMIN\Desktop\TTTAFinal1\TrungTamTiengAnhFinal\TrungTamTiengAnhFinal\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\ADMIN\Desktop\TTTAFinal1\TrungTamTiengAnhFinal\TrungTamTiengAnhFinal\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\ADMIN\Desktop\TTTAFinal1\TrungTamTiengAnhFinal\TrungTamTiengAnhFinal\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\ADMIN\Desktop\TTTAFinal1\TrungTamTiengAnhFinal\TrungTamTiengAnhFinal\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\ADMIN\Desktop\TTTAFinal1\TrungTamTiengAnhFinal\TrungTamTiengAnhFinal\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\ADMIN\Desktop\TTTAFinal1\TrungTamTiengAnhFinal\TrungTamTiengAnhFinal\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\ADMIN\Desktop\TTTAFinal1\TrungTamTiengAnhFinal\TrungTamTiengAnhFinal\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\ADMIN\Desktop\TTTAFinal1\TrungTamTiengAnhFinal\TrungTamTiengAnhFinal\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\ADMIN\Desktop\TTTAFinal1\TrungTamTiengAnhFinal\TrungTamTiengAnhFinal\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\ADMIN\Desktop\TTTAFinal1\TrungTamTiengAnhFinal\TrungTamTiengAnhFinal\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\ADMIN\Desktop\TTTAFinal1\TrungTamTiengAnhFinal\TrungTamTiengAnhFinal\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\ADMIN\Desktop\TTTAFinal1\TrungTamTiengAnhFinal\TrungTamTiengAnhFinal\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\ADMIN\Desktop\TTTAFinal1\TrungTamTiengAnhFinal\TrungTamTiengAnhFinal\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\ADMIN\Desktop\TTTAFinal1\TrungTamTiengAnhFinal\TrungTamTiengAnhFinal\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\ADMIN\Desktop\TTTAFinal1\TrungTamTiengAnhFinal\TrungTamTiengAnhFinal\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\ADMIN\Desktop\TTTAFinal1\TrungTamTiengAnhFinal\TrungTamTiengAnhFinal\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\ADMIN\Desktop\TTTAFinal1\TrungTamTiengAnhFinal\TrungTamTiengAnhFinal\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\ADMIN\Desktop\TTTAFinal1\TrungTamTiengAnhFinal\TrungTamTiengAnhFinal\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\ADMIN\Desktop\TTTAFinal1\TrungTamTiengAnhFinal\TrungTamTiengAnhFinal\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\ADMIN\Desktop\TTTAFinal1\TrungTamTiengAnhFinal\TrungTamTiengAnhFinal\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\ADMIN\Desktop\TTTAFinal1\TrungTamTiengAnhFinal\TrungTamTiengAnhFinal\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\ADMIN\Desktop\TTTAFinal1\TrungTamTiengAnhFinal\TrungTamTiengAnhFinal\obj\Debug\TrungTamTiengAnhFinal.Quản_trị.Quản_lý_điểm.formInBangDiem.resources
+C:\Users\ADMIN\Desktop\TTTAFinal1\TrungTamTiengAnhFinal\TrungTamTiengAnhFinal\obj\Debug\RdlCompile.cache
+C:\Users\ADMIN\Desktop\TTTAFinal1\TrungTamTiengAnhFinal\TrungTamTiengAnhFinal\obj\Debug\RdlCompile.compiled
+C:\Users\ADMIN\Desktop\TTTAFinal1\TrungTamTiengAnhFinal\TrungTamTiengAnhFinal\bin\Debug\Model\SqlServerTypes\x64\msvcr120.dll
+C:\Users\ADMIN\Desktop\TTTAFinal1\TrungTamTiengAnhFinal\TrungTamTiengAnhFinal\bin\Debug\Model\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\ADMIN\Desktop\TTTAFinal1\TrungTamTiengAnhFinal\TrungTamTiengAnhFinal\bin\Debug\Model\SqlServerTypes\x86\msvcr120.dll
+C:\Users\ADMIN\Desktop\TTTAFinal1\TrungTamTiengAnhFinal\TrungTamTiengAnhFinal\bin\Debug\Model\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\ADMIN\Desktop\TTTAFinal1\TrungTamTiengAnhFinal\TrungTamTiengAnhFinal\bin\Debug\EntityFramework.dll
+C:\Users\ADMIN\Desktop\TTTAFinal1\TrungTamTiengAnhFinal\TrungTamTiengAnhFinal\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\ADMIN\Desktop\TTTAFinal1\TrungTamTiengAnhFinal\TrungTamTiengAnhFinal\bin\Debug\EntityFramework.xml
+C:\Users\ADMIN\Desktop\TTTAFinal1\TrungTamTiengAnhFinal\TrungTamTiengAnhFinal\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\ADMIN\Desktop\TTTAFinal1\TrungTamTiengAnhFinal\TrungTamTiengAnhFinal\bin\Debug\Nhân Viên\reportInBangDiem.rdlc
+E:\TTTAFinal1\TrungTamTiengAnhFinal\TrungTamTiengAnhFinal\bin\Debug\Nhân Viên\reportInBangDiem.rdlc
+E:\TTTAFinal1\TrungTamTiengAnhFinal\TrungTamTiengAnhFinal\bin\Debug\TrungTamTiengAnhFinal.exe.config
+E:\TTTAFinal1\TrungTamTiengAnhFinal\TrungTamTiengAnhFinal\bin\Debug\TrungTamTiengAnhFinal.exe
+E:\TTTAFinal1\TrungTamTiengAnhFinal\TrungTamTiengAnhFinal\bin\Debug\TrungTamTiengAnhFinal.pdb
+E:\TTTAFinal1\TrungTamTiengAnhFinal\TrungTamTiengAnhFinal\bin\Debug\EntityFramework.dll
+E:\TTTAFinal1\TrungTamTiengAnhFinal\TrungTamTiengAnhFinal\bin\Debug\EntityFramework.SqlServer.dll
+E:\TTTAFinal1\TrungTamTiengAnhFinal\TrungTamTiengAnhFinal\bin\Debug\FontAwesome.Sharp.dll
+E:\TTTAFinal1\TrungTamTiengAnhFinal\TrungTamTiengAnhFinal\bin\Debug\Microsoft.ReportViewer.Common.dll
+E:\TTTAFinal1\TrungTamTiengAnhFinal\TrungTamTiengAnhFinal\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+E:\TTTAFinal1\TrungTamTiengAnhFinal\TrungTamTiengAnhFinal\bin\Debug\Microsoft.ReportViewer.Design.dll
+E:\TTTAFinal1\TrungTamTiengAnhFinal\TrungTamTiengAnhFinal\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+E:\TTTAFinal1\TrungTamTiengAnhFinal\TrungTamTiengAnhFinal\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+E:\TTTAFinal1\TrungTamTiengAnhFinal\TrungTamTiengAnhFinal\bin\Debug\Microsoft.SqlServer.Types.dll
+E:\TTTAFinal1\TrungTamTiengAnhFinal\TrungTamTiengAnhFinal\bin\Debug\EnvDTE.dll
+E:\TTTAFinal1\TrungTamTiengAnhFinal\TrungTamTiengAnhFinal\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+E:\TTTAFinal1\TrungTamTiengAnhFinal\TrungTamTiengAnhFinal\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+E:\TTTAFinal1\TrungTamTiengAnhFinal\TrungTamTiengAnhFinal\bin\Debug\stdole.dll
+E:\TTTAFinal1\TrungTamTiengAnhFinal\TrungTamTiengAnhFinal\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+E:\TTTAFinal1\TrungTamTiengAnhFinal\TrungTamTiengAnhFinal\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+E:\TTTAFinal1\TrungTamTiengAnhFinal\TrungTamTiengAnhFinal\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+E:\TTTAFinal1\TrungTamTiengAnhFinal\TrungTamTiengAnhFinal\bin\Debug\Microsoft.MSXML.dll
+E:\TTTAFinal1\TrungTamTiengAnhFinal\TrungTamTiengAnhFinal\bin\Debug\EntityFramework.xml
+E:\TTTAFinal1\TrungTamTiengAnhFinal\TrungTamTiengAnhFinal\bin\Debug\EntityFramework.SqlServer.xml
+E:\TTTAFinal1\TrungTamTiengAnhFinal\TrungTamTiengAnhFinal\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+E:\TTTAFinal1\TrungTamTiengAnhFinal\TrungTamTiengAnhFinal\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+E:\TTTAFinal1\TrungTamTiengAnhFinal\TrungTamTiengAnhFinal\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+E:\TTTAFinal1\TrungTamTiengAnhFinal\TrungTamTiengAnhFinal\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+E:\TTTAFinal1\TrungTamTiengAnhFinal\TrungTamTiengAnhFinal\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+E:\TTTAFinal1\TrungTamTiengAnhFinal\TrungTamTiengAnhFinal\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+E:\TTTAFinal1\TrungTamTiengAnhFinal\TrungTamTiengAnhFinal\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+E:\TTTAFinal1\TrungTamTiengAnhFinal\TrungTamTiengAnhFinal\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+E:\TTTAFinal1\TrungTamTiengAnhFinal\TrungTamTiengAnhFinal\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+E:\TTTAFinal1\TrungTamTiengAnhFinal\TrungTamTiengAnhFinal\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+E:\TTTAFinal1\TrungTamTiengAnhFinal\TrungTamTiengAnhFinal\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\TTTAFinal1\TrungTamTiengAnhFinal\TrungTamTiengAnhFinal\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\TTTAFinal1\TrungTamTiengAnhFinal\TrungTamTiengAnhFinal\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\TTTAFinal1\TrungTamTiengAnhFinal\TrungTamTiengAnhFinal\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\TTTAFinal1\TrungTamTiengAnhFinal\TrungTamTiengAnhFinal\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\TTTAFinal1\TrungTamTiengAnhFinal\TrungTamTiengAnhFinal\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\TTTAFinal1\TrungTamTiengAnhFinal\TrungTamTiengAnhFinal\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\TTTAFinal1\TrungTamTiengAnhFinal\TrungTamTiengAnhFinal\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\TTTAFinal1\TrungTamTiengAnhFinal\TrungTamTiengAnhFinal\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\TTTAFinal1\TrungTamTiengAnhFinal\TrungTamTiengAnhFinal\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\TTTAFinal1\TrungTamTiengAnhFinal\TrungTamTiengAnhFinal\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+E:\TTTAFinal1\TrungTamTiengAnhFinal\TrungTamTiengAnhFinal\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+E:\TTTAFinal1\TrungTamTiengAnhFinal\TrungTamTiengAnhFinal\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+E:\TTTAFinal1\TrungTamTiengAnhFinal\TrungTamTiengAnhFinal\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+E:\TTTAFinal1\TrungTamTiengAnhFinal\TrungTamTiengAnhFinal\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+E:\TTTAFinal1\TrungTamTiengAnhFinal\TrungTamTiengAnhFinal\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+E:\TTTAFinal1\TrungTamTiengAnhFinal\TrungTamTiengAnhFinal\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+E:\TTTAFinal1\TrungTamTiengAnhFinal\TrungTamTiengAnhFinal\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+E:\TTTAFinal1\TrungTamTiengAnhFinal\TrungTamTiengAnhFinal\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+E:\TTTAFinal1\TrungTamTiengAnhFinal\TrungTamTiengAnhFinal\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+E:\TTTAFinal1\TrungTamTiengAnhFinal\TrungTamTiengAnhFinal\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+E:\TTTAFinal1\TrungTamTiengAnhFinal\TrungTamTiengAnhFinal\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+E:\TTTAFinal1\TrungTamTiengAnhFinal\TrungTamTiengAnhFinal\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+E:\TTTAFinal1\TrungTamTiengAnhFinal\TrungTamTiengAnhFinal\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+E:\TTTAFinal1\TrungTamTiengAnhFinal\TrungTamTiengAnhFinal\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+E:\TTTAFinal1\TrungTamTiengAnhFinal\TrungTamTiengAnhFinal\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+E:\TTTAFinal1\TrungTamTiengAnhFinal\TrungTamTiengAnhFinal\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+E:\TTTAFinal1\TrungTamTiengAnhFinal\TrungTamTiengAnhFinal\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+E:\TTTAFinal1\TrungTamTiengAnhFinal\TrungTamTiengAnhFinal\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+E:\TTTAFinal1\TrungTamTiengAnhFinal\TrungTamTiengAnhFinal\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+E:\TTTAFinal1\TrungTamTiengAnhFinal\TrungTamTiengAnhFinal\obj\Debug\TrungTamTiengAnhFinal.formLogin.resources
+E:\TTTAFinal1\TrungTamTiengAnhFinal\TrungTamTiengAnhFinal\obj\Debug\TrungTamTiengAnhFinal.formMain.resources
+E:\TTTAFinal1\TrungTamTiengAnhFinal\TrungTamTiengAnhFinal\obj\Debug\TrungTamTiengAnhFinal.formThongTin.resources
+E:\TTTAFinal1\TrungTamTiengAnhFinal\TrungTamTiengAnhFinal\obj\Debug\TrungTamTiengAnhFinal.Nhân_Viên.formThayDoiThongTinNV.resources
+E:\TTTAFinal1\TrungTamTiengAnhFinal\TrungTamTiengAnhFinal\obj\Debug\TrungTamTiengAnhFinal.formThongKeDiemTheoLopNV.resources
+E:\TTTAFinal1\TrungTamTiengAnhFinal\TrungTamTiengAnhFinal\obj\Debug\TrungTamTiengAnhFinal.Giảng_Viên.formCacLopDaDayGV.resources
+E:\TTTAFinal1\TrungTamTiengAnhFinal\TrungTamTiengAnhFinal\obj\Debug\TrungTamTiengAnhFinal.Học_Viên.formBangDiemHV.resources
+E:\TTTAFinal1\TrungTamTiengAnhFinal\TrungTamTiengAnhFinal\obj\Debug\TrungTamTiengAnhFinal.Học_Viên.formHocPhiHV.resources
+E:\TTTAFinal1\TrungTamTiengAnhFinal\TrungTamTiengAnhFinal\obj\Debug\TrungTamTiengAnhFinal.Học_Viên.formThayDoiThongTinHV.resources
+E:\TTTAFinal1\TrungTamTiengAnhFinal\TrungTamTiengAnhFinal\obj\Debug\TrungTamTiengAnhFinal.Học_Viên.formTiepNhanHocVien.resources
+E:\TTTAFinal1\TrungTamTiengAnhFinal\TrungTamTiengAnhFinal\obj\Debug\TrungTamTiengAnhFinal.Học_Viên.LuuPhieuGhiDanh.resources
+E:\TTTAFinal1\TrungTamTiengAnhFinal\TrungTamTiengAnhFinal\obj\Debug\TrungTamTiengAnhFinal.Quản_trị.Quản_lý_điểm.formInBangDiem.resources
+E:\TTTAFinal1\TrungTamTiengAnhFinal\TrungTamTiengAnhFinal\obj\Debug\TrungTamTiengAnhFinal.Học_Viên.QuanLyDiemHV.resources
+E:\TTTAFinal1\TrungTamTiengAnhFinal\TrungTamTiengAnhFinal\obj\Debug\TrungTamTiengAnhFinal.Học_Viên.formXepLopHV.resources
+E:\TTTAFinal1\TrungTamTiengAnhFinal\TrungTamTiengAnhFinal\obj\Debug\TrungTamTiengAnhFinal.Properties.Resources.resources
+E:\TTTAFinal1\TrungTamTiengAnhFinal\TrungTamTiengAnhFinal\obj\Debug\TrungTamTiengAnhFinal.Quản_trị.formQuanLyGV.resources
+E:\TTTAFinal1\TrungTamTiengAnhFinal\TrungTamTiengAnhFinal\obj\Debug\TrungTamTiengAnhFinal.Quản_trị.formQuanLyHocPhi.resources
+E:\TTTAFinal1\TrungTamTiengAnhFinal\TrungTamTiengAnhFinal\obj\Debug\TrungTamTiengAnhFinal.Quản_trị.formQuanLyKhoaHoc.resources
+E:\TTTAFinal1\TrungTamTiengAnhFinal\TrungTamTiengAnhFinal\obj\Debug\TrungTamTiengAnhFinal.Quản_trị.formQuanLyLopHoc.resources
+E:\TTTAFinal1\TrungTamTiengAnhFinal\TrungTamTiengAnhFinal\obj\Debug\TrungTamTiengAnhFinal.Quản_trị.formThemGV.resources
+E:\TTTAFinal1\TrungTamTiengAnhFinal\TrungTamTiengAnhFinal\obj\Debug\TrungTamTiengAnhFinal.Quản_trị.formThemNV.resources
+E:\TTTAFinal1\TrungTamTiengAnhFinal\TrungTamTiengAnhFinal\obj\Debug\TrungTamTiengAnhFinal.Quản_trị.QuanLyNV.resources
+E:\TTTAFinal1\TrungTamTiengAnhFinal\TrungTamTiengAnhFinal\obj\Debug\TrungTamTiengAnhFinal.csproj.GenerateResource.cache
+E:\TTTAFinal1\TrungTamTiengAnhFinal\TrungTamTiengAnhFinal\obj\Debug\RdlCompile.cache
+E:\TTTAFinal1\TrungTamTiengAnhFinal\TrungTamTiengAnhFinal\obj\Debug\RdlCompile.compiled
+E:\TTTAFinal1\TrungTamTiengAnhFinal\TrungTamTiengAnhFinal\obj\Debug\TrungTamTiengAnhFinal.csproj.CoreCompileInputs.cache
+E:\TTTAFinal1\TrungTamTiengAnhFinal\TrungTamTiengAnhFinal\obj\Debug\TrungTamTiengAnhFinal.csproj.CopyComplete
+E:\TTTAFinal1\TrungTamTiengAnhFinal\TrungTamTiengAnhFinal\obj\Debug\TrungTamTiengAnhFinal.exe
+E:\TTTAFinal1\TrungTamTiengAnhFinal\TrungTamTiengAnhFinal\obj\Debug\TrungTamTiengAnhFinal.pdb
+E:\TTTAFinal1\TrungTamTiengAnhFinal\TrungTamTiengAnhFinal\obj\Debug\TrungTamTiengAnhFinal.Quản_trị.formQuanLyHV.resources
+E:\TTTAFinal1\TrungTamTiengAnhFinal\TrungTamTiengAnhFinal\obj\Debug\TrungTamTiengAnhFinal.csproj.AssemblyReference.cache
+C:\Users\ADMIN\Desktop\The last project\TTTAFinal1\TrungTamTiengAnhFinal\TrungTamTiengAnhFinal\bin\Debug\Nhân Viên\reportInBangDiem.rdlc
+C:\Users\ADMIN\Desktop\The last project\TTTAFinal1\TrungTamTiengAnhFinal\TrungTamTiengAnhFinal\bin\Debug\TrungTamTiengAnhFinal.exe.config
+C:\Users\ADMIN\Desktop\The last project\TTTAFinal1\TrungTamTiengAnhFinal\TrungTamTiengAnhFinal\bin\Debug\TrungTamTiengAnhFinal.exe
+C:\Users\ADMIN\Desktop\The last project\TTTAFinal1\TrungTamTiengAnhFinal\TrungTamTiengAnhFinal\bin\Debug\TrungTamTiengAnhFinal.pdb
+C:\Users\ADMIN\Desktop\The last project\TTTAFinal1\TrungTamTiengAnhFinal\TrungTamTiengAnhFinal\bin\Debug\EntityFramework.dll
+C:\Users\ADMIN\Desktop\The last project\TTTAFinal1\TrungTamTiengAnhFinal\TrungTamTiengAnhFinal\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\ADMIN\Desktop\The last project\TTTAFinal1\TrungTamTiengAnhFinal\TrungTamTiengAnhFinal\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\ADMIN\Desktop\The last project\TTTAFinal1\TrungTamTiengAnhFinal\TrungTamTiengAnhFinal\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\ADMIN\Desktop\The last project\TTTAFinal1\TrungTamTiengAnhFinal\TrungTamTiengAnhFinal\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\ADMIN\Desktop\The last project\TTTAFinal1\TrungTamTiengAnhFinal\TrungTamTiengAnhFinal\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\ADMIN\Desktop\The last project\TTTAFinal1\TrungTamTiengAnhFinal\TrungTamTiengAnhFinal\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\ADMIN\Desktop\The last project\TTTAFinal1\TrungTamTiengAnhFinal\TrungTamTiengAnhFinal\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\ADMIN\Desktop\The last project\TTTAFinal1\TrungTamTiengAnhFinal\TrungTamTiengAnhFinal\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\ADMIN\Desktop\The last project\TTTAFinal1\TrungTamTiengAnhFinal\TrungTamTiengAnhFinal\bin\Debug\EnvDTE.dll
+C:\Users\ADMIN\Desktop\The last project\TTTAFinal1\TrungTamTiengAnhFinal\TrungTamTiengAnhFinal\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+C:\Users\ADMIN\Desktop\The last project\TTTAFinal1\TrungTamTiengAnhFinal\TrungTamTiengAnhFinal\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+C:\Users\ADMIN\Desktop\The last project\TTTAFinal1\TrungTamTiengAnhFinal\TrungTamTiengAnhFinal\bin\Debug\stdole.dll
+C:\Users\ADMIN\Desktop\The last project\TTTAFinal1\TrungTamTiengAnhFinal\TrungTamTiengAnhFinal\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+C:\Users\ADMIN\Desktop\The last project\TTTAFinal1\TrungTamTiengAnhFinal\TrungTamTiengAnhFinal\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+C:\Users\ADMIN\Desktop\The last project\TTTAFinal1\TrungTamTiengAnhFinal\TrungTamTiengAnhFinal\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+C:\Users\ADMIN\Desktop\The last project\TTTAFinal1\TrungTamTiengAnhFinal\TrungTamTiengAnhFinal\bin\Debug\Microsoft.MSXML.dll
+C:\Users\ADMIN\Desktop\The last project\TTTAFinal1\TrungTamTiengAnhFinal\TrungTamTiengAnhFinal\bin\Debug\EntityFramework.xml
+C:\Users\ADMIN\Desktop\The last project\TTTAFinal1\TrungTamTiengAnhFinal\TrungTamTiengAnhFinal\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\ADMIN\Desktop\The last project\TTTAFinal1\TrungTamTiengAnhFinal\TrungTamTiengAnhFinal\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\ADMIN\Desktop\The last project\TTTAFinal1\TrungTamTiengAnhFinal\TrungTamTiengAnhFinal\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\ADMIN\Desktop\The last project\TTTAFinal1\TrungTamTiengAnhFinal\TrungTamTiengAnhFinal\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\ADMIN\Desktop\The last project\TTTAFinal1\TrungTamTiengAnhFinal\TrungTamTiengAnhFinal\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\ADMIN\Desktop\The last project\TTTAFinal1\TrungTamTiengAnhFinal\TrungTamTiengAnhFinal\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\ADMIN\Desktop\The last project\TTTAFinal1\TrungTamTiengAnhFinal\TrungTamTiengAnhFinal\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\ADMIN\Desktop\The last project\TTTAFinal1\TrungTamTiengAnhFinal\TrungTamTiengAnhFinal\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\ADMIN\Desktop\The last project\TTTAFinal1\TrungTamTiengAnhFinal\TrungTamTiengAnhFinal\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\ADMIN\Desktop\The last project\TTTAFinal1\TrungTamTiengAnhFinal\TrungTamTiengAnhFinal\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\ADMIN\Desktop\The last project\TTTAFinal1\TrungTamTiengAnhFinal\TrungTamTiengAnhFinal\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\ADMIN\Desktop\The last project\TTTAFinal1\TrungTamTiengAnhFinal\TrungTamTiengAnhFinal\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\ADMIN\Desktop\The last project\TTTAFinal1\TrungTamTiengAnhFinal\TrungTamTiengAnhFinal\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\ADMIN\Desktop\The last project\TTTAFinal1\TrungTamTiengAnhFinal\TrungTamTiengAnhFinal\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\ADMIN\Desktop\The last project\TTTAFinal1\TrungTamTiengAnhFinal\TrungTamTiengAnhFinal\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\ADMIN\Desktop\The last project\TTTAFinal1\TrungTamTiengAnhFinal\TrungTamTiengAnhFinal\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\ADMIN\Desktop\The last project\TTTAFinal1\TrungTamTiengAnhFinal\TrungTamTiengAnhFinal\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\ADMIN\Desktop\The last project\TTTAFinal1\TrungTamTiengAnhFinal\TrungTamTiengAnhFinal\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\ADMIN\Desktop\The last project\TTTAFinal1\TrungTamTiengAnhFinal\TrungTamTiengAnhFinal\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\ADMIN\Desktop\The last project\TTTAFinal1\TrungTamTiengAnhFinal\TrungTamTiengAnhFinal\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\ADMIN\Desktop\The last project\TTTAFinal1\TrungTamTiengAnhFinal\TrungTamTiengAnhFinal\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\ADMIN\Desktop\The last project\TTTAFinal1\TrungTamTiengAnhFinal\TrungTamTiengAnhFinal\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\ADMIN\Desktop\The last project\TTTAFinal1\TrungTamTiengAnhFinal\TrungTamTiengAnhFinal\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\ADMIN\Desktop\The last project\TTTAFinal1\TrungTamTiengAnhFinal\TrungTamTiengAnhFinal\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\ADMIN\Desktop\The last project\TTTAFinal1\TrungTamTiengAnhFinal\TrungTamTiengAnhFinal\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\ADMIN\Desktop\The last project\TTTAFinal1\TrungTamTiengAnhFinal\TrungTamTiengAnhFinal\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\ADMIN\Desktop\The last project\TTTAFinal1\TrungTamTiengAnhFinal\TrungTamTiengAnhFinal\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\ADMIN\Desktop\The last project\TTTAFinal1\TrungTamTiengAnhFinal\TrungTamTiengAnhFinal\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\ADMIN\Desktop\The last project\TTTAFinal1\TrungTamTiengAnhFinal\TrungTamTiengAnhFinal\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\ADMIN\Desktop\The last project\TTTAFinal1\TrungTamTiengAnhFinal\TrungTamTiengAnhFinal\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\ADMIN\Desktop\The last project\TTTAFinal1\TrungTamTiengAnhFinal\TrungTamTiengAnhFinal\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\ADMIN\Desktop\The last project\TTTAFinal1\TrungTamTiengAnhFinal\TrungTamTiengAnhFinal\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\ADMIN\Desktop\The last project\TTTAFinal1\TrungTamTiengAnhFinal\TrungTamTiengAnhFinal\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\ADMIN\Desktop\The last project\TTTAFinal1\TrungTamTiengAnhFinal\TrungTamTiengAnhFinal\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\ADMIN\Desktop\The last project\TTTAFinal1\TrungTamTiengAnhFinal\TrungTamTiengAnhFinal\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\ADMIN\Desktop\The last project\TTTAFinal1\TrungTamTiengAnhFinal\TrungTamTiengAnhFinal\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\ADMIN\Desktop\The last project\TTTAFinal1\TrungTamTiengAnhFinal\TrungTamTiengAnhFinal\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\ADMIN\Desktop\The last project\TTTAFinal1\TrungTamTiengAnhFinal\TrungTamTiengAnhFinal\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\ADMIN\Desktop\The last project\TTTAFinal1\TrungTamTiengAnhFinal\TrungTamTiengAnhFinal\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\ADMIN\Desktop\The last project\TTTAFinal1\TrungTamTiengAnhFinal\TrungTamTiengAnhFinal\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\ADMIN\Desktop\The last project\TTTAFinal1\TrungTamTiengAnhFinal\TrungTamTiengAnhFinal\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\ADMIN\Desktop\The last project\TTTAFinal1\TrungTamTiengAnhFinal\TrungTamTiengAnhFinal\obj\Debug\TrungTamTiengAnhFinal.csproj.AssemblyReference.cache
+C:\Users\ADMIN\Desktop\The last project\TTTAFinal1\TrungTamTiengAnhFinal\TrungTamTiengAnhFinal\obj\Debug\TrungTamTiengAnhFinal.formLogin.resources
+C:\Users\ADMIN\Desktop\The last project\TTTAFinal1\TrungTamTiengAnhFinal\TrungTamTiengAnhFinal\obj\Debug\TrungTamTiengAnhFinal.formMain.resources
+C:\Users\ADMIN\Desktop\The last project\TTTAFinal1\TrungTamTiengAnhFinal\TrungTamTiengAnhFinal\obj\Debug\TrungTamTiengAnhFinal.formThongTin.resources
+C:\Users\ADMIN\Desktop\The last project\TTTAFinal1\TrungTamTiengAnhFinal\TrungTamTiengAnhFinal\obj\Debug\TrungTamTiengAnhFinal.Nhân_Viên.formThayDoiThongTinNV.resources
+C:\Users\ADMIN\Desktop\The last project\TTTAFinal1\TrungTamTiengAnhFinal\TrungTamTiengAnhFinal\obj\Debug\TrungTamTiengAnhFinal.formThongKeDiemTheoLopNV.resources
+C:\Users\ADMIN\Desktop\The last project\TTTAFinal1\TrungTamTiengAnhFinal\TrungTamTiengAnhFinal\obj\Debug\TrungTamTiengAnhFinal.Giảng_Viên.formCacLopDaDayGV.resources
+C:\Users\ADMIN\Desktop\The last project\TTTAFinal1\TrungTamTiengAnhFinal\TrungTamTiengAnhFinal\obj\Debug\TrungTamTiengAnhFinal.Học_Viên.formBangDiemHV.resources
+C:\Users\ADMIN\Desktop\The last project\TTTAFinal1\TrungTamTiengAnhFinal\TrungTamTiengAnhFinal\obj\Debug\TrungTamTiengAnhFinal.Học_Viên.formHocPhiHV.resources
+C:\Users\ADMIN\Desktop\The last project\TTTAFinal1\TrungTamTiengAnhFinal\TrungTamTiengAnhFinal\obj\Debug\TrungTamTiengAnhFinal.Học_Viên.formThayDoiThongTinHV.resources
+C:\Users\ADMIN\Desktop\The last project\TTTAFinal1\TrungTamTiengAnhFinal\TrungTamTiengAnhFinal\obj\Debug\TrungTamTiengAnhFinal.Học_Viên.formTiepNhanHocVien.resources
+C:\Users\ADMIN\Desktop\The last project\TTTAFinal1\TrungTamTiengAnhFinal\TrungTamTiengAnhFinal\obj\Debug\TrungTamTiengAnhFinal.Học_Viên.LuuPhieuGhiDanh.resources
+C:\Users\ADMIN\Desktop\The last project\TTTAFinal1\TrungTamTiengAnhFinal\TrungTamTiengAnhFinal\obj\Debug\TrungTamTiengAnhFinal.Quản_trị.Quản_lý_điểm.formInBangDiem.resources
+C:\Users\ADMIN\Desktop\The last project\TTTAFinal1\TrungTamTiengAnhFinal\TrungTamTiengAnhFinal\obj\Debug\TrungTamTiengAnhFinal.Học_Viên.QuanLyDiemHV.resources
+C:\Users\ADMIN\Desktop\The last project\TTTAFinal1\TrungTamTiengAnhFinal\TrungTamTiengAnhFinal\obj\Debug\TrungTamTiengAnhFinal.Học_Viên.formXepLopHV.resources
+C:\Users\ADMIN\Desktop\The last project\TTTAFinal1\TrungTamTiengAnhFinal\TrungTamTiengAnhFinal\obj\Debug\TrungTamTiengAnhFinal.Properties.Resources.resources
+C:\Users\ADMIN\Desktop\The last project\TTTAFinal1\TrungTamTiengAnhFinal\TrungTamTiengAnhFinal\obj\Debug\TrungTamTiengAnhFinal.Quản_trị.formQuanLyGV.resources
+C:\Users\ADMIN\Desktop\The last project\TTTAFinal1\TrungTamTiengAnhFinal\TrungTamTiengAnhFinal\obj\Debug\TrungTamTiengAnhFinal.Quản_trị.formQuanLyHocPhi.resources
+C:\Users\ADMIN\Desktop\The last project\TTTAFinal1\TrungTamTiengAnhFinal\TrungTamTiengAnhFinal\obj\Debug\TrungTamTiengAnhFinal.Quản_trị.formQuanLyHV.resources
+C:\Users\ADMIN\Desktop\The last project\TTTAFinal1\TrungTamTiengAnhFinal\TrungTamTiengAnhFinal\obj\Debug\TrungTamTiengAnhFinal.Quản_trị.formQuanLyKhoaHoc.resources
+C:\Users\ADMIN\Desktop\The last project\TTTAFinal1\TrungTamTiengAnhFinal\TrungTamTiengAnhFinal\obj\Debug\TrungTamTiengAnhFinal.Quản_trị.formQuanLyLopHoc.resources
+C:\Users\ADMIN\Desktop\The last project\TTTAFinal1\TrungTamTiengAnhFinal\TrungTamTiengAnhFinal\obj\Debug\TrungTamTiengAnhFinal.Quản_trị.formThemGV.resources
+C:\Users\ADMIN\Desktop\The last project\TTTAFinal1\TrungTamTiengAnhFinal\TrungTamTiengAnhFinal\obj\Debug\TrungTamTiengAnhFinal.Quản_trị.formThemNV.resources
+C:\Users\ADMIN\Desktop\The last project\TTTAFinal1\TrungTamTiengAnhFinal\TrungTamTiengAnhFinal\obj\Debug\TrungTamTiengAnhFinal.Quản_trị.QuanLyNV.resources
+C:\Users\ADMIN\Desktop\The last project\TTTAFinal1\TrungTamTiengAnhFinal\TrungTamTiengAnhFinal\obj\Debug\TrungTamTiengAnhFinal.csproj.GenerateResource.cache
+C:\Users\ADMIN\Desktop\The last project\TTTAFinal1\TrungTamTiengAnhFinal\TrungTamTiengAnhFinal\obj\Debug\RdlCompile.cache
+C:\Users\ADMIN\Desktop\The last project\TTTAFinal1\TrungTamTiengAnhFinal\TrungTamTiengAnhFinal\obj\Debug\RdlCompile.compiled
+C:\Users\ADMIN\Desktop\The last project\TTTAFinal1\TrungTamTiengAnhFinal\TrungTamTiengAnhFinal\obj\Debug\TrungTamTiengAnhFinal.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\Desktop\The last project\TTTAFinal1\TrungTamTiengAnhFinal\TrungTamTiengAnhFinal\obj\Debug\TrungTamTiengAnhFinal.exe
+C:\Users\ADMIN\Desktop\The last project\TTTAFinal1\TrungTamTiengAnhFinal\TrungTamTiengAnhFinal\obj\Debug\TrungTamTiengAnhFinal.pdb
+C:\Users\ADMIN\Desktop\Nhom4_QuanLyTrungTamTiengAnh\TTTAFinal1\TrungTamTiengAnhFinal\TrungTamTiengAnhFinal\bin\Debug\Nhân Viên\reportInBangDiem.rdlc
+C:\Users\ADMIN\Desktop\Nhom4_QuanLyTrungTamTiengAnh\TTTAFinal1\TrungTamTiengAnhFinal\TrungTamTiengAnhFinal\bin\Debug\TrungTamTiengAnhFinal.exe.config
+C:\Users\ADMIN\Desktop\Nhom4_QuanLyTrungTamTiengAnh\TTTAFinal1\TrungTamTiengAnhFinal\TrungTamTiengAnhFinal\bin\Debug\TrungTamTiengAnhFinal.exe
+C:\Users\ADMIN\Desktop\Nhom4_QuanLyTrungTamTiengAnh\TTTAFinal1\TrungTamTiengAnhFinal\TrungTamTiengAnhFinal\bin\Debug\TrungTamTiengAnhFinal.pdb
+C:\Users\ADMIN\Desktop\Nhom4_QuanLyTrungTamTiengAnh\TTTAFinal1\TrungTamTiengAnhFinal\TrungTamTiengAnhFinal\bin\Debug\EntityFramework.dll
+C:\Users\ADMIN\Desktop\Nhom4_QuanLyTrungTamTiengAnh\TTTAFinal1\TrungTamTiengAnhFinal\TrungTamTiengAnhFinal\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\ADMIN\Desktop\Nhom4_QuanLyTrungTamTiengAnh\TTTAFinal1\TrungTamTiengAnhFinal\TrungTamTiengAnhFinal\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\ADMIN\Desktop\Nhom4_QuanLyTrungTamTiengAnh\TTTAFinal1\TrungTamTiengAnhFinal\TrungTamTiengAnhFinal\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\ADMIN\Desktop\Nhom4_QuanLyTrungTamTiengAnh\TTTAFinal1\TrungTamTiengAnhFinal\TrungTamTiengAnhFinal\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\ADMIN\Desktop\Nhom4_QuanLyTrungTamTiengAnh\TTTAFinal1\TrungTamTiengAnhFinal\TrungTamTiengAnhFinal\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\ADMIN\Desktop\Nhom4_QuanLyTrungTamTiengAnh\TTTAFinal1\TrungTamTiengAnhFinal\TrungTamTiengAnhFinal\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\ADMIN\Desktop\Nhom4_QuanLyTrungTamTiengAnh\TTTAFinal1\TrungTamTiengAnhFinal\TrungTamTiengAnhFinal\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\ADMIN\Desktop\Nhom4_QuanLyTrungTamTiengAnh\TTTAFinal1\TrungTamTiengAnhFinal\TrungTamTiengAnhFinal\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\ADMIN\Desktop\Nhom4_QuanLyTrungTamTiengAnh\TTTAFinal1\TrungTamTiengAnhFinal\TrungTamTiengAnhFinal\bin\Debug\EnvDTE.dll
+C:\Users\ADMIN\Desktop\Nhom4_QuanLyTrungTamTiengAnh\TTTAFinal1\TrungTamTiengAnhFinal\TrungTamTiengAnhFinal\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+C:\Users\ADMIN\Desktop\Nhom4_QuanLyTrungTamTiengAnh\TTTAFinal1\TrungTamTiengAnhFinal\TrungTamTiengAnhFinal\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+C:\Users\ADMIN\Desktop\Nhom4_QuanLyTrungTamTiengAnh\TTTAFinal1\TrungTamTiengAnhFinal\TrungTamTiengAnhFinal\bin\Debug\stdole.dll
+C:\Users\ADMIN\Desktop\Nhom4_QuanLyTrungTamTiengAnh\TTTAFinal1\TrungTamTiengAnhFinal\TrungTamTiengAnhFinal\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+C:\Users\ADMIN\Desktop\Nhom4_QuanLyTrungTamTiengAnh\TTTAFinal1\TrungTamTiengAnhFinal\TrungTamTiengAnhFinal\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+C:\Users\ADMIN\Desktop\Nhom4_QuanLyTrungTamTiengAnh\TTTAFinal1\TrungTamTiengAnhFinal\TrungTamTiengAnhFinal\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+C:\Users\ADMIN\Desktop\Nhom4_QuanLyTrungTamTiengAnh\TTTAFinal1\TrungTamTiengAnhFinal\TrungTamTiengAnhFinal\bin\Debug\Microsoft.MSXML.dll
+C:\Users\ADMIN\Desktop\Nhom4_QuanLyTrungTamTiengAnh\TTTAFinal1\TrungTamTiengAnhFinal\TrungTamTiengAnhFinal\bin\Debug\EntityFramework.xml
+C:\Users\ADMIN\Desktop\Nhom4_QuanLyTrungTamTiengAnh\TTTAFinal1\TrungTamTiengAnhFinal\TrungTamTiengAnhFinal\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\ADMIN\Desktop\Nhom4_QuanLyTrungTamTiengAnh\TTTAFinal1\TrungTamTiengAnhFinal\TrungTamTiengAnhFinal\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\ADMIN\Desktop\Nhom4_QuanLyTrungTamTiengAnh\TTTAFinal1\TrungTamTiengAnhFinal\TrungTamTiengAnhFinal\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\ADMIN\Desktop\Nhom4_QuanLyTrungTamTiengAnh\TTTAFinal1\TrungTamTiengAnhFinal\TrungTamTiengAnhFinal\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\ADMIN\Desktop\Nhom4_QuanLyTrungTamTiengAnh\TTTAFinal1\TrungTamTiengAnhFinal\TrungTamTiengAnhFinal\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\ADMIN\Desktop\Nhom4_QuanLyTrungTamTiengAnh\TTTAFinal1\TrungTamTiengAnhFinal\TrungTamTiengAnhFinal\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\ADMIN\Desktop\Nhom4_QuanLyTrungTamTiengAnh\TTTAFinal1\TrungTamTiengAnhFinal\TrungTamTiengAnhFinal\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\ADMIN\Desktop\Nhom4_QuanLyTrungTamTiengAnh\TTTAFinal1\TrungTamTiengAnhFinal\TrungTamTiengAnhFinal\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\ADMIN\Desktop\Nhom4_QuanLyTrungTamTiengAnh\TTTAFinal1\TrungTamTiengAnhFinal\TrungTamTiengAnhFinal\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\ADMIN\Desktop\Nhom4_QuanLyTrungTamTiengAnh\TTTAFinal1\TrungTamTiengAnhFinal\TrungTamTiengAnhFinal\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\ADMIN\Desktop\Nhom4_QuanLyTrungTamTiengAnh\TTTAFinal1\TrungTamTiengAnhFinal\TrungTamTiengAnhFinal\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\ADMIN\Desktop\Nhom4_QuanLyTrungTamTiengAnh\TTTAFinal1\TrungTamTiengAnhFinal\TrungTamTiengAnhFinal\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\ADMIN\Desktop\Nhom4_QuanLyTrungTamTiengAnh\TTTAFinal1\TrungTamTiengAnhFinal\TrungTamTiengAnhFinal\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\ADMIN\Desktop\Nhom4_QuanLyTrungTamTiengAnh\TTTAFinal1\TrungTamTiengAnhFinal\TrungTamTiengAnhFinal\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\ADMIN\Desktop\Nhom4_QuanLyTrungTamTiengAnh\TTTAFinal1\TrungTamTiengAnhFinal\TrungTamTiengAnhFinal\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\ADMIN\Desktop\Nhom4_QuanLyTrungTamTiengAnh\TTTAFinal1\TrungTamTiengAnhFinal\TrungTamTiengAnhFinal\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\ADMIN\Desktop\Nhom4_QuanLyTrungTamTiengAnh\TTTAFinal1\TrungTamTiengAnhFinal\TrungTamTiengAnhFinal\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\ADMIN\Desktop\Nhom4_QuanLyTrungTamTiengAnh\TTTAFinal1\TrungTamTiengAnhFinal\TrungTamTiengAnhFinal\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\ADMIN\Desktop\Nhom4_QuanLyTrungTamTiengAnh\TTTAFinal1\TrungTamTiengAnhFinal\TrungTamTiengAnhFinal\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\ADMIN\Desktop\Nhom4_QuanLyTrungTamTiengAnh\TTTAFinal1\TrungTamTiengAnhFinal\TrungTamTiengAnhFinal\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\ADMIN\Desktop\Nhom4_QuanLyTrungTamTiengAnh\TTTAFinal1\TrungTamTiengAnhFinal\TrungTamTiengAnhFinal\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\ADMIN\Desktop\Nhom4_QuanLyTrungTamTiengAnh\TTTAFinal1\TrungTamTiengAnhFinal\TrungTamTiengAnhFinal\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\ADMIN\Desktop\Nhom4_QuanLyTrungTamTiengAnh\TTTAFinal1\TrungTamTiengAnhFinal\TrungTamTiengAnhFinal\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\ADMIN\Desktop\Nhom4_QuanLyTrungTamTiengAnh\TTTAFinal1\TrungTamTiengAnhFinal\TrungTamTiengAnhFinal\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\ADMIN\Desktop\Nhom4_QuanLyTrungTamTiengAnh\TTTAFinal1\TrungTamTiengAnhFinal\TrungTamTiengAnhFinal\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\ADMIN\Desktop\Nhom4_QuanLyTrungTamTiengAnh\TTTAFinal1\TrungTamTiengAnhFinal\TrungTamTiengAnhFinal\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\ADMIN\Desktop\Nhom4_QuanLyTrungTamTiengAnh\TTTAFinal1\TrungTamTiengAnhFinal\TrungTamTiengAnhFinal\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\ADMIN\Desktop\Nhom4_QuanLyTrungTamTiengAnh\TTTAFinal1\TrungTamTiengAnhFinal\TrungTamTiengAnhFinal\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\ADMIN\Desktop\Nhom4_QuanLyTrungTamTiengAnh\TTTAFinal1\TrungTamTiengAnhFinal\TrungTamTiengAnhFinal\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\ADMIN\Desktop\Nhom4_QuanLyTrungTamTiengAnh\TTTAFinal1\TrungTamTiengAnhFinal\TrungTamTiengAnhFinal\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\ADMIN\Desktop\Nhom4_QuanLyTrungTamTiengAnh\TTTAFinal1\TrungTamTiengAnhFinal\TrungTamTiengAnhFinal\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\ADMIN\Desktop\Nhom4_QuanLyTrungTamTiengAnh\TTTAFinal1\TrungTamTiengAnhFinal\TrungTamTiengAnhFinal\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\ADMIN\Desktop\Nhom4_QuanLyTrungTamTiengAnh\TTTAFinal1\TrungTamTiengAnhFinal\TrungTamTiengAnhFinal\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\ADMIN\Desktop\Nhom4_QuanLyTrungTamTiengAnh\TTTAFinal1\TrungTamTiengAnhFinal\TrungTamTiengAnhFinal\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\ADMIN\Desktop\Nhom4_QuanLyTrungTamTiengAnh\TTTAFinal1\TrungTamTiengAnhFinal\TrungTamTiengAnhFinal\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\ADMIN\Desktop\Nhom4_QuanLyTrungTamTiengAnh\TTTAFinal1\TrungTamTiengAnhFinal\TrungTamTiengAnhFinal\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\ADMIN\Desktop\Nhom4_QuanLyTrungTamTiengAnh\TTTAFinal1\TrungTamTiengAnhFinal\TrungTamTiengAnhFinal\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\ADMIN\Desktop\Nhom4_QuanLyTrungTamTiengAnh\TTTAFinal1\TrungTamTiengAnhFinal\TrungTamTiengAnhFinal\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\ADMIN\Desktop\Nhom4_QuanLyTrungTamTiengAnh\TTTAFinal1\TrungTamTiengAnhFinal\TrungTamTiengAnhFinal\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\ADMIN\Desktop\Nhom4_QuanLyTrungTamTiengAnh\TTTAFinal1\TrungTamTiengAnhFinal\TrungTamTiengAnhFinal\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\ADMIN\Desktop\Nhom4_QuanLyTrungTamTiengAnh\TTTAFinal1\TrungTamTiengAnhFinal\TrungTamTiengAnhFinal\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\ADMIN\Desktop\Nhom4_QuanLyTrungTamTiengAnh\TTTAFinal1\TrungTamTiengAnhFinal\TrungTamTiengAnhFinal\obj\Debug\TrungTamTiengAnhFinal.formMain.resources
+C:\Users\ADMIN\Desktop\Nhom4_QuanLyTrungTamTiengAnh\TTTAFinal1\TrungTamTiengAnhFinal\TrungTamTiengAnhFinal\obj\Debug\TrungTamTiengAnhFinal.formThongTin.resources
+C:\Users\ADMIN\Desktop\Nhom4_QuanLyTrungTamTiengAnh\TTTAFinal1\TrungTamTiengAnhFinal\TrungTamTiengAnhFinal\obj\Debug\TrungTamTiengAnhFinal.Nhân_Viên.formThayDoiThongTinNV.resources
+C:\Users\ADMIN\Desktop\Nhom4_QuanLyTrungTamTiengAnh\TTTAFinal1\TrungTamTiengAnhFinal\TrungTamTiengAnhFinal\obj\Debug\TrungTamTiengAnhFinal.formThongKeDiemTheoLopNV.resources
+C:\Users\ADMIN\Desktop\Nhom4_QuanLyTrungTamTiengAnh\TTTAFinal1\TrungTamTiengAnhFinal\TrungTamTiengAnhFinal\obj\Debug\TrungTamTiengAnhFinal.Giảng_Viên.formCacLopDaDayGV.resources
+C:\Users\ADMIN\Desktop\Nhom4_QuanLyTrungTamTiengAnh\TTTAFinal1\TrungTamTiengAnhFinal\TrungTamTiengAnhFinal\obj\Debug\TrungTamTiengAnhFinal.Học_Viên.formBangDiemHV.resources
+C:\Users\ADMIN\Desktop\Nhom4_QuanLyTrungTamTiengAnh\TTTAFinal1\TrungTamTiengAnhFinal\TrungTamTiengAnhFinal\obj\Debug\TrungTamTiengAnhFinal.Học_Viên.formHocPhiHV.resources
+C:\Users\ADMIN\Desktop\Nhom4_QuanLyTrungTamTiengAnh\TTTAFinal1\TrungTamTiengAnhFinal\TrungTamTiengAnhFinal\obj\Debug\TrungTamTiengAnhFinal.Học_Viên.formThayDoiThongTinHV.resources
+C:\Users\ADMIN\Desktop\Nhom4_QuanLyTrungTamTiengAnh\TTTAFinal1\TrungTamTiengAnhFinal\TrungTamTiengAnhFinal\obj\Debug\TrungTamTiengAnhFinal.Học_Viên.formTiepNhanHocVien.resources
+C:\Users\ADMIN\Desktop\Nhom4_QuanLyTrungTamTiengAnh\TTTAFinal1\TrungTamTiengAnhFinal\TrungTamTiengAnhFinal\obj\Debug\TrungTamTiengAnhFinal.Học_Viên.LuuPhieuGhiDanh.resources
+C:\Users\ADMIN\Desktop\Nhom4_QuanLyTrungTamTiengAnh\TTTAFinal1\TrungTamTiengAnhFinal\TrungTamTiengAnhFinal\obj\Debug\TrungTamTiengAnhFinal.Quản_trị.Quản_lý_điểm.formInBangDiem.resources
+C:\Users\ADMIN\Desktop\Nhom4_QuanLyTrungTamTiengAnh\TTTAFinal1\TrungTamTiengAnhFinal\TrungTamTiengAnhFinal\obj\Debug\TrungTamTiengAnhFinal.Học_Viên.QuanLyDiemHV.resources
+C:\Users\ADMIN\Desktop\Nhom4_QuanLyTrungTamTiengAnh\TTTAFinal1\TrungTamTiengAnhFinal\TrungTamTiengAnhFinal\obj\Debug\TrungTamTiengAnhFinal.Học_Viên.formXepLopHV.resources
+C:\Users\ADMIN\Desktop\Nhom4_QuanLyTrungTamTiengAnh\TTTAFinal1\TrungTamTiengAnhFinal\TrungTamTiengAnhFinal\obj\Debug\TrungTamTiengAnhFinal.Properties.Resources.resources
+C:\Users\ADMIN\Desktop\Nhom4_QuanLyTrungTamTiengAnh\TTTAFinal1\TrungTamTiengAnhFinal\TrungTamTiengAnhFinal\obj\Debug\TrungTamTiengAnhFinal.Quản_trị.formQuanLyGV.resources
+C:\Users\ADMIN\Desktop\Nhom4_QuanLyTrungTamTiengAnh\TTTAFinal1\TrungTamTiengAnhFinal\TrungTamTiengAnhFinal\obj\Debug\TrungTamTiengAnhFinal.Quản_trị.formQuanLyHocPhi.resources
+C:\Users\ADMIN\Desktop\Nhom4_QuanLyTrungTamTiengAnh\TTTAFinal1\TrungTamTiengAnhFinal\TrungTamTiengAnhFinal\obj\Debug\TrungTamTiengAnhFinal.Quản_trị.formQuanLyHV.resources
+C:\Users\ADMIN\Desktop\Nhom4_QuanLyTrungTamTiengAnh\TTTAFinal1\TrungTamTiengAnhFinal\TrungTamTiengAnhFinal\obj\Debug\TrungTamTiengAnhFinal.Quản_trị.formQuanLyKhoaHoc.resources
+C:\Users\ADMIN\Desktop\Nhom4_QuanLyTrungTamTiengAnh\TTTAFinal1\TrungTamTiengAnhFinal\TrungTamTiengAnhFinal\obj\Debug\TrungTamTiengAnhFinal.Quản_trị.formQuanLyLopHoc.resources
+C:\Users\ADMIN\Desktop\Nhom4_QuanLyTrungTamTiengAnh\TTTAFinal1\TrungTamTiengAnhFinal\TrungTamTiengAnhFinal\obj\Debug\TrungTamTiengAnhFinal.Quản_trị.formThemGV.resources
+C:\Users\ADMIN\Desktop\Nhom4_QuanLyTrungTamTiengAnh\TTTAFinal1\TrungTamTiengAnhFinal\TrungTamTiengAnhFinal\obj\Debug\TrungTamTiengAnhFinal.Quản_trị.formThemNV.resources
+C:\Users\ADMIN\Desktop\Nhom4_QuanLyTrungTamTiengAnh\TTTAFinal1\TrungTamTiengAnhFinal\TrungTamTiengAnhFinal\obj\Debug\TrungTamTiengAnhFinal.Quản_trị.QuanLyNV.resources
+C:\Users\ADMIN\Desktop\Nhom4_QuanLyTrungTamTiengAnh\TTTAFinal1\TrungTamTiengAnhFinal\TrungTamTiengAnhFinal\obj\Debug\TrungTamTiengAnhFinal.csproj.GenerateResource.cache
+C:\Users\ADMIN\Desktop\Nhom4_QuanLyTrungTamTiengAnh\TTTAFinal1\TrungTamTiengAnhFinal\TrungTamTiengAnhFinal\obj\Debug\RdlCompile.cache
+C:\Users\ADMIN\Desktop\Nhom4_QuanLyTrungTamTiengAnh\TTTAFinal1\TrungTamTiengAnhFinal\TrungTamTiengAnhFinal\obj\Debug\RdlCompile.compiled
+C:\Users\ADMIN\Desktop\Nhom4_QuanLyTrungTamTiengAnh\TTTAFinal1\TrungTamTiengAnhFinal\TrungTamTiengAnhFinal\obj\Debug\TrungTamTiengAnhFinal.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\Desktop\Nhom4_QuanLyTrungTamTiengAnh\TTTAFinal1\TrungTamTiengAnhFinal\TrungTamTiengAnhFinal\obj\Debug\TrungTamTiengAnhFinal.exe
+C:\Users\ADMIN\Desktop\Nhom4_QuanLyTrungTamTiengAnh\TTTAFinal1\TrungTamTiengAnhFinal\TrungTamTiengAnhFinal\obj\Debug\TrungTamTiengAnhFinal.pdb
+C:\Users\ADMIN\Desktop\Nhom4_QuanLyTrungTamTiengAnh\TTTAFinal1\TrungTamTiengAnhFinal\TrungTamTiengAnhFinal\obj\Debug\TrungTamTiengAnhFinal.formDangKy.resources
+C:\Users\ADMIN\Desktop\Nhom4_QuanLyTrungTamTiengAnh\TTTAFinal1\TrungTamTiengAnhFinal\TrungTamTiengAnhFinal\obj\Debug\TrungTamTiengAnhFinal.formDangNhap.resources
+C:\Users\ADMIN\Desktop\Nhom4_QuanLyTrungTamTiengAnh\TTTAFinal1\TrungTamTiengAnhFinal\TrungTamTiengAnhFinal\obj\Debug\TrungTamTiengAnhFinal.Học_Viên.formInPhieuGhiDanh.resources
+C:\Users\ADMIN\Desktop\Nhom4_QuanLyTrungTamTiengAnh\TTTAFinal1\TrungTamTiengAnhFinal\TrungTamTiengAnhFinal\bin\Debug\Học Viên\rptPhieuGhIDanhReport.rdlc
+C:\Users\ADMIN\Desktop\Nhom4_QuanLyTrungTamTiengAnh\TTTAFinal1\TrungTamTiengAnhFinal\TrungTamTiengAnhFinal\obj\Debug\TrungTamTiengAnhFinal.csproj.AssemblyReference.cache
+C:\Users\ADMIN\Desktop\Nhom4_QuanLyTrungTamTiengAnh\TTTAFinal1\TrungTamTiengAnhFinal\TrungTamTiengAnhFinal\obj\Debug\TrungTamTiengAnhFinal.formLoading.resources
+C:\Users\ADMIN\Desktop\Nhom4_QuanLyTrungTamTiengAnh\TTTAFinal1\TrungTamTiengAnhFinal\TrungTamTiengAnhFinal\obj\Debug\TrungTamTiengAnhFinal.formLoading2.resources

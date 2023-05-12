@@ -1,0 +1,382 @@
+USE [master]
+GO
+/****** Object:  Database [QuanLyTrungTamAnhNgu]    Script Date: 31/10/2021 11:34:23 PM ******/
+CREATE DATABASE [QuanLyTrungTamAnhNgu]
+ CONTAINMENT = NONE
+ ON  PRIMARY 
+( NAME = N'QuanLyTrungTamAnhNgu', FILENAME = N'C:\Program Files\Microsoft SQL Server\MSSQL15.SQLEXPRESS\MSSQL\DATA\QuanLyTrungTamAnhNgu.mdf' , SIZE = 8192KB , MAXSIZE = UNLIMITED, FILEGROWTH = 65536KB )
+ LOG ON 
+( NAME = N'QuanLyTrungTamAnhNgu_log', FILENAME = N'C:\Program Files\Microsoft SQL Server\MSSQL15.SQLEXPRESS\MSSQL\DATA\QuanLyTrungTamAnhNgu_log.ldf' , SIZE = 8192KB , MAXSIZE = 2048GB , FILEGROWTH = 65536KB )
+ WITH CATALOG_COLLATION = DATABASE_DEFAULT
+GO
+ALTER DATABASE [QuanLyTrungTamAnhNgu] SET COMPATIBILITY_LEVEL = 150
+GO
+IF (1 = FULLTEXTSERVICEPROPERTY('IsFullTextInstalled'))
+begin
+EXEC [QuanLyTrungTamAnhNgu].[dbo].[sp_fulltext_database] @action = 'enable'
+end
+GO
+ALTER DATABASE [QuanLyTrungTamAnhNgu] SET ANSI_NULL_DEFAULT OFF 
+GO
+ALTER DATABASE [QuanLyTrungTamAnhNgu] SET ANSI_NULLS OFF 
+GO
+ALTER DATABASE [QuanLyTrungTamAnhNgu] SET ANSI_PADDING OFF 
+GO
+ALTER DATABASE [QuanLyTrungTamAnhNgu] SET ANSI_WARNINGS OFF 
+GO
+ALTER DATABASE [QuanLyTrungTamAnhNgu] SET ARITHABORT OFF 
+GO
+ALTER DATABASE [QuanLyTrungTamAnhNgu] SET AUTO_CLOSE OFF 
+GO
+ALTER DATABASE [QuanLyTrungTamAnhNgu] SET AUTO_SHRINK OFF 
+GO
+ALTER DATABASE [QuanLyTrungTamAnhNgu] SET AUTO_UPDATE_STATISTICS ON 
+GO
+ALTER DATABASE [QuanLyTrungTamAnhNgu] SET CURSOR_CLOSE_ON_COMMIT OFF 
+GO
+ALTER DATABASE [QuanLyTrungTamAnhNgu] SET CURSOR_DEFAULT  GLOBAL 
+GO
+ALTER DATABASE [QuanLyTrungTamAnhNgu] SET CONCAT_NULL_YIELDS_NULL OFF 
+GO
+ALTER DATABASE [QuanLyTrungTamAnhNgu] SET NUMERIC_ROUNDABORT OFF 
+GO
+ALTER DATABASE [QuanLyTrungTamAnhNgu] SET QUOTED_IDENTIFIER OFF 
+GO
+ALTER DATABASE [QuanLyTrungTamAnhNgu] SET RECURSIVE_TRIGGERS OFF 
+GO
+ALTER DATABASE [QuanLyTrungTamAnhNgu] SET  DISABLE_BROKER 
+GO
+ALTER DATABASE [QuanLyTrungTamAnhNgu] SET AUTO_UPDATE_STATISTICS_ASYNC OFF 
+GO
+ALTER DATABASE [QuanLyTrungTamAnhNgu] SET DATE_CORRELATION_OPTIMIZATION OFF 
+GO
+ALTER DATABASE [QuanLyTrungTamAnhNgu] SET TRUSTWORTHY OFF 
+GO
+ALTER DATABASE [QuanLyTrungTamAnhNgu] SET ALLOW_SNAPSHOT_ISOLATION OFF 
+GO
+ALTER DATABASE [QuanLyTrungTamAnhNgu] SET PARAMETERIZATION SIMPLE 
+GO
+ALTER DATABASE [QuanLyTrungTamAnhNgu] SET READ_COMMITTED_SNAPSHOT OFF 
+GO
+ALTER DATABASE [QuanLyTrungTamAnhNgu] SET HONOR_BROKER_PRIORITY OFF 
+GO
+ALTER DATABASE [QuanLyTrungTamAnhNgu] SET RECOVERY SIMPLE 
+GO
+ALTER DATABASE [QuanLyTrungTamAnhNgu] SET  MULTI_USER 
+GO
+ALTER DATABASE [QuanLyTrungTamAnhNgu] SET PAGE_VERIFY CHECKSUM  
+GO
+ALTER DATABASE [QuanLyTrungTamAnhNgu] SET DB_CHAINING OFF 
+GO
+ALTER DATABASE [QuanLyTrungTamAnhNgu] SET FILESTREAM( NON_TRANSACTED_ACCESS = OFF ) 
+GO
+ALTER DATABASE [QuanLyTrungTamAnhNgu] SET TARGET_RECOVERY_TIME = 60 SECONDS 
+GO
+ALTER DATABASE [QuanLyTrungTamAnhNgu] SET DELAYED_DURABILITY = DISABLED 
+GO
+ALTER DATABASE [QuanLyTrungTamAnhNgu] SET ACCELERATED_DATABASE_RECOVERY = OFF  
+GO
+ALTER DATABASE [QuanLyTrungTamAnhNgu] SET QUERY_STORE = OFF
+GO
+USE [QuanLyTrungTamAnhNgu]
+GO
+/****** Object:  Table [dbo].[BangDiem]    Script Date: 31/10/2021 11:34:23 PM ******/
+SET ANSI_NULLS ON
+GO
+SET QUOTED_IDENTIFIER ON
+GO
+CREATE TABLE [dbo].[BangDiem](
+	[MaHV] [varchar](10) NOT NULL,
+	[MaLop] [varchar](9) NOT NULL,
+	[MaPhieu] [varchar](10) NULL,
+	[DiemNghe] [int] NULL,
+	[DiemNoi] [int] NULL,
+	[DiemDoc] [int] NULL,
+	[DiemViet] [int] NULL,
+ CONSTRAINT [PK_BangDiem] PRIMARY KEY CLUSTERED 
+(
+	[MaHV] ASC,
+	[MaLop] ASC
+)WITH (PAD_INDEX = OFF, STATISTICS_NORECOMPUTE = OFF, IGNORE_DUP_KEY = OFF, ALLOW_ROW_LOCKS = ON, ALLOW_PAGE_LOCKS = ON, OPTIMIZE_FOR_SEQUENTIAL_KEY = OFF) ON [PRIMARY]
+) ON [PRIMARY]
+GO
+/****** Object:  Table [dbo].[DangKy]    Script Date: 31/10/2021 11:34:23 PM ******/
+SET ANSI_NULLS ON
+GO
+SET QUOTED_IDENTIFIER ON
+GO
+CREATE TABLE [dbo].[DangKy](
+	[MaHV] [varchar](10) NOT NULL,
+	[MaKH] [varchar](4) NOT NULL,
+	[MaPhieu] [varchar](10) NOT NULL,
+ CONSTRAINT [PK_DangKy] PRIMARY KEY CLUSTERED 
+(
+	[MaHV] ASC,
+	[MaKH] ASC,
+	[MaPhieu] ASC
+)WITH (PAD_INDEX = OFF, STATISTICS_NORECOMPUTE = OFF, IGNORE_DUP_KEY = OFF, ALLOW_ROW_LOCKS = ON, ALLOW_PAGE_LOCKS = ON, OPTIMIZE_FOR_SEQUENTIAL_KEY = OFF) ON [PRIMARY]
+) ON [PRIMARY]
+GO
+/****** Object:  Table [dbo].[GiangVien]    Script Date: 31/10/2021 11:34:23 PM ******/
+SET ANSI_NULLS ON
+GO
+SET QUOTED_IDENTIFIER ON
+GO
+CREATE TABLE [dbo].[GiangVien](
+	[MaGV] [varchar](6) NOT NULL,
+	[TenGV] [nvarchar](30) NULL,
+	[GioiTinhGV] [nvarchar](3) NULL,
+	[SDTGV] [varchar](12) NULL,
+	[EmailGV] [varchar](50) NULL,
+	[MaLoaiGV] [varchar](10) NULL,
+ CONSTRAINT [PK_GiangVien] PRIMARY KEY CLUSTERED 
+(
+	[MaGV] ASC
+)WITH (PAD_INDEX = OFF, STATISTICS_NORECOMPUTE = OFF, IGNORE_DUP_KEY = OFF, ALLOW_ROW_LOCKS = ON, ALLOW_PAGE_LOCKS = ON, OPTIMIZE_FOR_SEQUENTIAL_KEY = OFF) ON [PRIMARY]
+) ON [PRIMARY]
+GO
+/****** Object:  Table [dbo].[HocVien]    Script Date: 31/10/2021 11:34:23 PM ******/
+SET ANSI_NULLS ON
+GO
+SET QUOTED_IDENTIFIER ON
+GO
+CREATE TABLE [dbo].[HocVien](
+	[MaHV] [varchar](10) NOT NULL,
+	[TenHV] [nvarchar](30) NULL,
+	[NgaySinh] [smalldatetime] NULL,
+	[GioiTinhHV] [nvarchar](3) NULL,
+	[DiaChi] [nvarchar](30) NULL,
+	[SDTHV] [varchar](12) NULL,
+	[EmailHV] [varchar](50) NULL,
+	[MaLoaiHV] [varchar](5) NULL,
+	[NgayTiepNhan] [smalldatetime] NULL,
+ CONSTRAINT [PK_HocVien] PRIMARY KEY CLUSTERED 
+(
+	[MaHV] ASC
+)WITH (PAD_INDEX = OFF, STATISTICS_NORECOMPUTE = OFF, IGNORE_DUP_KEY = OFF, ALLOW_ROW_LOCKS = ON, ALLOW_PAGE_LOCKS = ON, OPTIMIZE_FOR_SEQUENTIAL_KEY = OFF) ON [PRIMARY]
+) ON [PRIMARY]
+GO
+/****** Object:  Table [dbo].[KhoaHoc]    Script Date: 31/10/2021 11:34:23 PM ******/
+SET ANSI_NULLS ON
+GO
+SET QUOTED_IDENTIFIER ON
+GO
+CREATE TABLE [dbo].[KhoaHoc](
+	[MaKH] [varchar](4) NOT NULL,
+	[TenKH] [nvarchar](30) NULL,
+	[HocPhi] [money] NULL,
+	[MaPhieu] [varchar](10) NULL,
+ CONSTRAINT [PK_KhoaHoc] PRIMARY KEY CLUSTERED 
+(
+	[MaKH] ASC
+)WITH (PAD_INDEX = OFF, STATISTICS_NORECOMPUTE = OFF, IGNORE_DUP_KEY = OFF, ALLOW_ROW_LOCKS = ON, ALLOW_PAGE_LOCKS = ON, OPTIMIZE_FOR_SEQUENTIAL_KEY = OFF) ON [PRIMARY]
+) ON [PRIMARY]
+GO
+/****** Object:  Table [dbo].[LoaiGV]    Script Date: 31/10/2021 11:34:23 PM ******/
+SET ANSI_NULLS ON
+GO
+SET QUOTED_IDENTIFIER ON
+GO
+CREATE TABLE [dbo].[LoaiGV](
+	[MaLoaiGV] [varchar](10) NOT NULL,
+	[TenLoaiGV] [varchar](30) NOT NULL,
+ CONSTRAINT [PK_LoaiGV] PRIMARY KEY CLUSTERED 
+(
+	[MaLoaiGV] ASC
+)WITH (PAD_INDEX = OFF, STATISTICS_NORECOMPUTE = OFF, IGNORE_DUP_KEY = OFF, ALLOW_ROW_LOCKS = ON, ALLOW_PAGE_LOCKS = ON, OPTIMIZE_FOR_SEQUENTIAL_KEY = OFF) ON [PRIMARY]
+) ON [PRIMARY]
+GO
+/****** Object:  Table [dbo].[LoaiHV]    Script Date: 31/10/2021 11:34:23 PM ******/
+SET ANSI_NULLS ON
+GO
+SET QUOTED_IDENTIFIER ON
+GO
+CREATE TABLE [dbo].[LoaiHV](
+	[MaLoaiHV] [varchar](5) NOT NULL,
+	[TenLoaiHV] [nvarchar](30) NULL,
+ CONSTRAINT [PK_LoaiHV] PRIMARY KEY CLUSTERED 
+(
+	[MaLoaiHV] ASC
+)WITH (PAD_INDEX = OFF, STATISTICS_NORECOMPUTE = OFF, IGNORE_DUP_KEY = OFF, ALLOW_ROW_LOCKS = ON, ALLOW_PAGE_LOCKS = ON, OPTIMIZE_FOR_SEQUENTIAL_KEY = OFF) ON [PRIMARY]
+) ON [PRIMARY]
+GO
+/****** Object:  Table [dbo].[LoaiNV]    Script Date: 31/10/2021 11:34:23 PM ******/
+SET ANSI_NULLS ON
+GO
+SET QUOTED_IDENTIFIER ON
+GO
+CREATE TABLE [dbo].[LoaiNV](
+	[MaLoaiNV] [varchar](5) NOT NULL,
+	[TenLoaiNV] [nvarchar](30) NULL,
+ CONSTRAINT [PK_LoaiNV] PRIMARY KEY CLUSTERED 
+(
+	[MaLoaiNV] ASC
+)WITH (PAD_INDEX = OFF, STATISTICS_NORECOMPUTE = OFF, IGNORE_DUP_KEY = OFF, ALLOW_ROW_LOCKS = ON, ALLOW_PAGE_LOCKS = ON, OPTIMIZE_FOR_SEQUENTIAL_KEY = OFF) ON [PRIMARY]
+) ON [PRIMARY]
+GO
+/****** Object:  Table [dbo].[LopHoc]    Script Date: 31/10/2021 11:34:23 PM ******/
+SET ANSI_NULLS ON
+GO
+SET QUOTED_IDENTIFIER ON
+GO
+CREATE TABLE [dbo].[LopHoc](
+	[MaLop] [varchar](9) NOT NULL,
+	[TenLop] [nvarchar](30) NULL,
+	[NgayBD] [smalldatetime] NULL,
+	[NgayKT] [smalldatetime] NULL,
+	[SiSo] [int] NULL,
+	[MaKH] [varchar](4) NULL,
+	[DangMo] [bit] NULL,
+	[MaGV] [varchar](6) NULL,
+ CONSTRAINT [PK_LopHoc] PRIMARY KEY CLUSTERED 
+(
+	[MaLop] ASC
+)WITH (PAD_INDEX = OFF, STATISTICS_NORECOMPUTE = OFF, IGNORE_DUP_KEY = OFF, ALLOW_ROW_LOCKS = ON, ALLOW_PAGE_LOCKS = ON, OPTIMIZE_FOR_SEQUENTIAL_KEY = OFF) ON [PRIMARY]
+) ON [PRIMARY]
+GO
+/****** Object:  Table [dbo].[NhanVien]    Script Date: 31/10/2021 11:34:23 PM ******/
+SET ANSI_NULLS ON
+GO
+SET QUOTED_IDENTIFIER ON
+GO
+CREATE TABLE [dbo].[NhanVien](
+	[MaNV] [varchar](6) NOT NULL,
+	[TenNV] [nvarchar](30) NULL,
+	[SDTNV] [varchar](12) NULL,
+	[EmailNV] [varchar](50) NULL,
+	[MaLoaiNV] [varchar](5) NULL,
+ CONSTRAINT [PK_NhanVien] PRIMARY KEY CLUSTERED 
+(
+	[MaNV] ASC
+)WITH (PAD_INDEX = OFF, STATISTICS_NORECOMPUTE = OFF, IGNORE_DUP_KEY = OFF, ALLOW_ROW_LOCKS = ON, ALLOW_PAGE_LOCKS = ON, OPTIMIZE_FOR_SEQUENTIAL_KEY = OFF) ON [PRIMARY]
+) ON [PRIMARY]
+GO
+/****** Object:  Table [dbo].[PhieuGhiDanh]    Script Date: 31/10/2021 11:34:23 PM ******/
+SET ANSI_NULLS ON
+GO
+SET QUOTED_IDENTIFIER ON
+GO
+CREATE TABLE [dbo].[PhieuGhiDanh](
+	[MaPhieu] [varchar](10) NOT NULL,
+	[NgayGhiDanh] [smalldatetime] NULL,
+	[DaDong] [money] NULL,
+	[MaNV] [varchar](6) NULL,
+	[ConNo] [money] NULL,
+ CONSTRAINT [PK_PhieuGhiDanh] PRIMARY KEY CLUSTERED 
+(
+	[MaPhieu] ASC
+)WITH (PAD_INDEX = OFF, STATISTICS_NORECOMPUTE = OFF, IGNORE_DUP_KEY = OFF, ALLOW_ROW_LOCKS = ON, ALLOW_PAGE_LOCKS = ON, OPTIMIZE_FOR_SEQUENTIAL_KEY = OFF) ON [PRIMARY]
+) ON [PRIMARY]
+GO
+INSERT [dbo].[BangDiem] ([MaHV], [MaLop], [MaPhieu], [DiemNghe], [DiemNoi], [DiemDoc], [DiemViet]) VALUES (N'1911', N'Lv1', N'MPCT', 10, 10, 10, 10)
+INSERT [dbo].[BangDiem] ([MaHV], [MaLop], [MaPhieu], [DiemNghe], [DiemNoi], [DiemDoc], [DiemViet]) VALUES (N'1912', N'Lv1', N'MPCT', 10, 10, 10, 10)
+INSERT [dbo].[BangDiem] ([MaHV], [MaLop], [MaPhieu], [DiemNghe], [DiemNoi], [DiemDoc], [DiemViet]) VALUES (N'1913', N'Lv1', N'MPCT', 9, 9, 7, 9)
+INSERT [dbo].[BangDiem] ([MaHV], [MaLop], [MaPhieu], [DiemNghe], [DiemNoi], [DiemDoc], [DiemViet]) VALUES (N'1914', N'Lv2', N'MPCT', 8, 9, 10, 10)
+INSERT [dbo].[BangDiem] ([MaHV], [MaLop], [MaPhieu], [DiemNghe], [DiemNoi], [DiemDoc], [DiemViet]) VALUES (N'1915', N'Lv3', N'MPCT', 9, 10, 10, 7)
+GO
+INSERT [dbo].[DangKy] ([MaHV], [MaKH], [MaPhieu]) VALUES (N'1911', N'LCT', N'MPCT')
+INSERT [dbo].[DangKy] ([MaHV], [MaKH], [MaPhieu]) VALUES (N'1912', N'LCT', N'MPCT')
+INSERT [dbo].[DangKy] ([MaHV], [MaKH], [MaPhieu]) VALUES (N'1913', N'LCT', N'MPCT')
+GO
+INSERT [dbo].[GiangVien] ([MaGV], [TenGV], [GioiTinhGV], [SDTGV], [EmailGV], [MaLoaiGV]) VALUES (N'GV1', N'Tony', N'Nam', N'012342342', N'toniiny@gmail.com', N'CT')
+INSERT [dbo].[GiangVien] ([MaGV], [TenGV], [GioiTinhGV], [SDTGV], [EmailGV], [MaLoaiGV]) VALUES (N'GV2', N'Rick', N'Nam', N'034523434', N'rick@gmail.com', N'CT')
+INSERT [dbo].[GiangVien] ([MaGV], [TenGV], [GioiTinhGV], [SDTGV], [EmailGV], [MaLoaiGV]) VALUES (N'GV3', N'Emma', N'Nữ', N'012312423', N'emma@gmail.com', N'CT')
+INSERT [dbo].[GiangVien] ([MaGV], [TenGV], [GioiTinhGV], [SDTGV], [EmailGV], [MaLoaiGV]) VALUES (N'GV4', N'Lang', N'Nam', N'043432434', N'lang@gmail.com', N'CT')
+INSERT [dbo].[GiangVien] ([MaGV], [TenGV], [GioiTinhGV], [SDTGV], [EmailGV], [MaLoaiGV]) VALUES (N'GV5', N'Tony sda', N'Nữ', N'012342342', N'toniiny@gmail.com', N'TV')
+GO
+INSERT [dbo].[HocVien] ([MaHV], [TenHV], [NgaySinh], [GioiTinhHV], [DiaChi], [SDTHV], [EmailHV], [MaLoaiHV], [NgayTiepNhan]) VALUES (N'1911', N'Vy Thái Việt', CAST(N'2001-09-05T00:00:00' AS SmallDateTime), N'Nam', N'Quận 10 Tp HCM', N'0918480757', N'vyviet0509@gmail.com', N'CT', CAST(N'2021-10-21T00:00:00' AS SmallDateTime))
+INSERT [dbo].[HocVien] ([MaHV], [TenHV], [NgaySinh], [GioiTinhHV], [DiaChi], [SDTHV], [EmailHV], [MaLoaiHV], [NgayTiepNhan]) VALUES (N'1912', N'Phạm Nhật Tân', CAST(N'2001-09-16T00:00:00' AS SmallDateTime), N'Nam', N'Quận Tân Bình Tp HCM', N'0912344567', N'nhattan@gmail.com', N'CT', CAST(N'2021-10-20T00:00:00' AS SmallDateTime))
+INSERT [dbo].[HocVien] ([MaHV], [TenHV], [NgaySinh], [GioiTinhHV], [DiaChi], [SDTHV], [EmailHV], [MaLoaiHV], [NgayTiepNhan]) VALUES (N'1913', N'Phạm Phú Quý', CAST(N'2001-08-18T00:00:00' AS SmallDateTime), N'Nam', N'Quận 9 Tp HCM', N'0912312455', N'phuquy@gmail.com', N'HT', CAST(N'2021-10-25T00:00:00' AS SmallDateTime))
+INSERT [dbo].[HocVien] ([MaHV], [TenHV], [NgaySinh], [GioiTinhHV], [DiaChi], [SDTHV], [EmailHV], [MaLoaiHV], [NgayTiepNhan]) VALUES (N'1914', N'Nguyễn Thủy Tiên', CAST(N'2001-04-16T00:00:00' AS SmallDateTime), N'Nữ', N'Quận 1 Tp HCM', N'0912412235', N'thuytien@gmail.com', N'HT', CAST(N'2021-10-26T00:00:00' AS SmallDateTime))
+INSERT [dbo].[HocVien] ([MaHV], [TenHV], [NgaySinh], [GioiTinhHV], [DiaChi], [SDTHV], [EmailHV], [MaLoaiHV], [NgayTiepNhan]) VALUES (N'1915', N'Trần Khánh Huyền', CAST(N'2001-09-09T00:00:00' AS SmallDateTime), N'Nữ', N'Quận 2 Tp HCM', N'0912443253', N'khanhhuyen@gmail.com', N'HT', CAST(N'2021-10-27T00:00:00' AS SmallDateTime))
+GO
+INSERT [dbo].[KhoaHoc] ([MaKH], [TenKH], [HocPhi], [MaPhieu]) VALUES (N'LCT', N'Khóa Học Chính Thức', 10000000.0000, N'MPCT')
+INSERT [dbo].[KhoaHoc] ([MaKH], [TenKH], [HocPhi], [MaPhieu]) VALUES (N'LHT', N'Khóa Học Thử', 0.0000, N'MPHT')
+GO
+INSERT [dbo].[LoaiGV] ([MaLoaiGV], [TenLoaiGV]) VALUES (N'CT', N'Giang Vien Chinh Thuc')
+INSERT [dbo].[LoaiGV] ([MaLoaiGV], [TenLoaiGV]) VALUES (N'TV', N'Giang Vien Thu Viec')
+GO
+INSERT [dbo].[LoaiHV] ([MaLoaiHV], [TenLoaiHV]) VALUES (N'CT', N'Học Viên Chính Thức')
+INSERT [dbo].[LoaiHV] ([MaLoaiHV], [TenLoaiHV]) VALUES (N'HT', N'Học Viên Học Thử')
+GO
+INSERT [dbo].[LoaiNV] ([MaLoaiNV], [TenLoaiNV]) VALUES (N'NVCT', N'Nhân Viên Chính Thức')
+INSERT [dbo].[LoaiNV] ([MaLoaiNV], [TenLoaiNV]) VALUES (N'NVTV', N'Nhân Viên Thử Việc')
+GO
+INSERT [dbo].[LopHoc] ([MaLop], [TenLop], [NgayBD], [NgayKT], [SiSo], [MaKH], [DangMo], [MaGV]) VALUES (N'Lv1', N'Lớp Cơ Bản ', CAST(N'2021-10-17T00:00:00' AS SmallDateTime), CAST(N'2021-12-17T00:00:00' AS SmallDateTime), 12, N'LCT', 1, NULL)
+INSERT [dbo].[LopHoc] ([MaLop], [TenLop], [NgayBD], [NgayKT], [SiSo], [MaKH], [DangMo], [MaGV]) VALUES (N'Lv2', N'Lớp Trung Bình', CAST(N'2021-12-15T00:00:00' AS SmallDateTime), CAST(N'2021-02-15T00:00:00' AS SmallDateTime), 12, N'LCT', 0, NULL)
+INSERT [dbo].[LopHoc] ([MaLop], [TenLop], [NgayBD], [NgayKT], [SiSo], [MaKH], [DangMo], [MaGV]) VALUES (N'Lv3', N'Lớp Nâng Cao', CAST(N'2021-02-20T00:00:00' AS SmallDateTime), CAST(N'2021-04-20T00:00:00' AS SmallDateTime), 12, N'LCT', 1, NULL)
+INSERT [dbo].[LopHoc] ([MaLop], [TenLop], [NgayBD], [NgayKT], [SiSo], [MaKH], [DangMo], [MaGV]) VALUES (N'Lv4', N'Lớp Nâng Cao NE', CAST(N'2021-02-20T00:00:00' AS SmallDateTime), CAST(N'2021-04-20T00:00:00' AS SmallDateTime), NULL, NULL, NULL, NULL)
+INSERT [dbo].[LopHoc] ([MaLop], [TenLop], [NgayBD], [NgayKT], [SiSo], [MaKH], [DangMo], [MaGV]) VALUES (N'Lv5', N'Lớp Cơ Bản Ne', CAST(N'2021-10-17T00:00:00' AS SmallDateTime), CAST(N'2021-12-17T00:00:00' AS SmallDateTime), NULL, NULL, NULL, NULL)
+GO
+INSERT [dbo].[NhanVien] ([MaNV], [TenNV], [SDTNV], [EmailNV], [MaLoaiNV]) VALUES (N'NV1', N'Hoàng Huyền Trang', N'0912423434', N'trang@gmail.com', N'NVCT')
+INSERT [dbo].[NhanVien] ([MaNV], [TenNV], [SDTNV], [EmailNV], [MaLoaiNV]) VALUES (N'NV2', N'Bùi Quốc Thành', N'01243254365', N'thanh@gmail.com', N'NVCT')
+INSERT [dbo].[NhanVien] ([MaNV], [TenNV], [SDTNV], [EmailNV], [MaLoaiNV]) VALUES (N'NV3', N'Nguyễn Quốc Thành', N'01241241434', N'thanhne@gmail.com', N'NVCT')
+INSERT [dbo].[NhanVien] ([MaNV], [TenNV], [SDTNV], [EmailNV], [MaLoaiNV]) VALUES (N'NV4', N'Nguyễn Quốc Thành', N'01241241434', N'thanhne@gmail.com', NULL)
+GO
+INSERT [dbo].[PhieuGhiDanh] ([MaPhieu], [NgayGhiDanh], [DaDong], [MaNV], [ConNo]) VALUES (N'MPCT', CAST(N'2021-10-21T00:00:00' AS SmallDateTime), 10000000.0000, N'NV1', NULL)
+INSERT [dbo].[PhieuGhiDanh] ([MaPhieu], [NgayGhiDanh], [DaDong], [MaNV], [ConNo]) VALUES (N'MPHT', CAST(N'2021-10-26T00:00:00' AS SmallDateTime), 0.0000, N'NV2', NULL)
+GO
+ALTER TABLE [dbo].[BangDiem]  WITH CHECK ADD  CONSTRAINT [FK_BangDiem_HocVien] FOREIGN KEY([MaHV])
+REFERENCES [dbo].[HocVien] ([MaHV])
+GO
+ALTER TABLE [dbo].[BangDiem] CHECK CONSTRAINT [FK_BangDiem_HocVien]
+GO
+ALTER TABLE [dbo].[BangDiem]  WITH CHECK ADD  CONSTRAINT [FK_BangDiem_LopHoc] FOREIGN KEY([MaLop])
+REFERENCES [dbo].[LopHoc] ([MaLop])
+GO
+ALTER TABLE [dbo].[BangDiem] CHECK CONSTRAINT [FK_BangDiem_LopHoc]
+GO
+ALTER TABLE [dbo].[BangDiem]  WITH CHECK ADD  CONSTRAINT [FK_BangDiem_PhieuGhiDanh] FOREIGN KEY([MaPhieu])
+REFERENCES [dbo].[PhieuGhiDanh] ([MaPhieu])
+GO
+ALTER TABLE [dbo].[BangDiem] CHECK CONSTRAINT [FK_BangDiem_PhieuGhiDanh]
+GO
+ALTER TABLE [dbo].[DangKy]  WITH CHECK ADD  CONSTRAINT [FK_DangKy_HocVien] FOREIGN KEY([MaHV])
+REFERENCES [dbo].[HocVien] ([MaHV])
+GO
+ALTER TABLE [dbo].[DangKy] CHECK CONSTRAINT [FK_DangKy_HocVien]
+GO
+ALTER TABLE [dbo].[DangKy]  WITH CHECK ADD  CONSTRAINT [FK_DangKy_KhoaHoc] FOREIGN KEY([MaKH])
+REFERENCES [dbo].[KhoaHoc] ([MaKH])
+GO
+ALTER TABLE [dbo].[DangKy] CHECK CONSTRAINT [FK_DangKy_KhoaHoc]
+GO
+ALTER TABLE [dbo].[DangKy]  WITH CHECK ADD  CONSTRAINT [FK_DangKy_PhieuGhiDanh] FOREIGN KEY([MaPhieu])
+REFERENCES [dbo].[PhieuGhiDanh] ([MaPhieu])
+GO
+ALTER TABLE [dbo].[DangKy] CHECK CONSTRAINT [FK_DangKy_PhieuGhiDanh]
+GO
+ALTER TABLE [dbo].[GiangVien]  WITH CHECK ADD  CONSTRAINT [FK_GiangVien_LoaiGV] FOREIGN KEY([MaLoaiGV])
+REFERENCES [dbo].[LoaiGV] ([MaLoaiGV])
+GO
+ALTER TABLE [dbo].[GiangVien] CHECK CONSTRAINT [FK_GiangVien_LoaiGV]
+GO
+ALTER TABLE [dbo].[HocVien]  WITH CHECK ADD  CONSTRAINT [FK_HocVien_LoaiHV] FOREIGN KEY([MaLoaiHV])
+REFERENCES [dbo].[LoaiHV] ([MaLoaiHV])
+GO
+ALTER TABLE [dbo].[HocVien] CHECK CONSTRAINT [FK_HocVien_LoaiHV]
+GO
+ALTER TABLE [dbo].[LopHoc]  WITH CHECK ADD  CONSTRAINT [FK_LopHoc_GiangVien] FOREIGN KEY([MaGV])
+REFERENCES [dbo].[GiangVien] ([MaGV])
+GO
+ALTER TABLE [dbo].[LopHoc] CHECK CONSTRAINT [FK_LopHoc_GiangVien]
+GO
+ALTER TABLE [dbo].[LopHoc]  WITH CHECK ADD  CONSTRAINT [FK_LopHoc_KhoaHoc] FOREIGN KEY([MaKH])
+REFERENCES [dbo].[KhoaHoc] ([MaKH])
+GO
+ALTER TABLE [dbo].[LopHoc] CHECK CONSTRAINT [FK_LopHoc_KhoaHoc]
+GO
+ALTER TABLE [dbo].[NhanVien]  WITH CHECK ADD  CONSTRAINT [FK_NhanVien_LoaiNV] FOREIGN KEY([MaLoaiNV])
+REFERENCES [dbo].[LoaiNV] ([MaLoaiNV])
+GO
+ALTER TABLE [dbo].[NhanVien] CHECK CONSTRAINT [FK_NhanVien_LoaiNV]
+GO
+ALTER TABLE [dbo].[PhieuGhiDanh]  WITH CHECK ADD  CONSTRAINT [FK_PhieuGhiDanh_NhanVien] FOREIGN KEY([MaNV])
+REFERENCES [dbo].[NhanVien] ([MaNV])
+GO
+ALTER TABLE [dbo].[PhieuGhiDanh] CHECK CONSTRAINT [FK_PhieuGhiDanh_NhanVien]
+GO
+USE [master]
+GO
+ALTER DATABASE [QuanLyTrungTamAnhNgu] SET  READ_WRITE 
+GO
